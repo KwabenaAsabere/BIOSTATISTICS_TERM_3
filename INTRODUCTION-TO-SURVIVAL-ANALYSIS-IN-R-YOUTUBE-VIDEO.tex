@@ -1,0 +1,548 @@
+% Options for packages loaded elsewhere
+\PassOptionsToPackage{unicode}{hyperref}
+\PassOptionsToPackage{hyphens}{url}
+%
+\documentclass[
+]{article}
+\usepackage{amsmath,amssymb}
+\usepackage{iftex}
+\ifPDFTeX
+  \usepackage[T1]{fontenc}
+  \usepackage[utf8]{inputenc}
+  \usepackage{textcomp} % provide euro and other symbols
+\else % if luatex or xetex
+  \usepackage{unicode-math} % this also loads fontspec
+  \defaultfontfeatures{Scale=MatchLowercase}
+  \defaultfontfeatures[\rmfamily]{Ligatures=TeX,Scale=1}
+\fi
+\usepackage{lmodern}
+\ifPDFTeX\else
+  % xetex/luatex font selection
+\fi
+% Use upquote if available, for straight quotes in verbatim environments
+\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
+\IfFileExists{microtype.sty}{% use microtype if available
+  \usepackage[]{microtype}
+  \UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
+}{}
+\makeatletter
+\@ifundefined{KOMAClassName}{% if non-KOMA class
+  \IfFileExists{parskip.sty}{%
+    \usepackage{parskip}
+  }{% else
+    \setlength{\parindent}{0pt}
+    \setlength{\parskip}{6pt plus 2pt minus 1pt}}
+}{% if KOMA class
+  \KOMAoptions{parskip=half}}
+\makeatother
+\usepackage{xcolor}
+\usepackage[margin=1in]{geometry}
+\usepackage{color}
+\usepackage{fancyvrb}
+\newcommand{\VerbBar}{|}
+\newcommand{\VERB}{\Verb[commandchars=\\\{\}]}
+\DefineVerbatimEnvironment{Highlighting}{Verbatim}{commandchars=\\\{\}}
+% Add ',fontsize=\small' for more characters per line
+\usepackage{framed}
+\definecolor{shadecolor}{RGB}{248,248,248}
+\newenvironment{Shaded}{\begin{snugshade}}{\end{snugshade}}
+\newcommand{\AlertTok}[1]{\textcolor[rgb]{0.94,0.16,0.16}{#1}}
+\newcommand{\AnnotationTok}[1]{\textcolor[rgb]{0.56,0.35,0.01}{\textbf{\textit{#1}}}}
+\newcommand{\AttributeTok}[1]{\textcolor[rgb]{0.13,0.29,0.53}{#1}}
+\newcommand{\BaseNTok}[1]{\textcolor[rgb]{0.00,0.00,0.81}{#1}}
+\newcommand{\BuiltInTok}[1]{#1}
+\newcommand{\CharTok}[1]{\textcolor[rgb]{0.31,0.60,0.02}{#1}}
+\newcommand{\CommentTok}[1]{\textcolor[rgb]{0.56,0.35,0.01}{\textit{#1}}}
+\newcommand{\CommentVarTok}[1]{\textcolor[rgb]{0.56,0.35,0.01}{\textbf{\textit{#1}}}}
+\newcommand{\ConstantTok}[1]{\textcolor[rgb]{0.56,0.35,0.01}{#1}}
+\newcommand{\ControlFlowTok}[1]{\textcolor[rgb]{0.13,0.29,0.53}{\textbf{#1}}}
+\newcommand{\DataTypeTok}[1]{\textcolor[rgb]{0.13,0.29,0.53}{#1}}
+\newcommand{\DecValTok}[1]{\textcolor[rgb]{0.00,0.00,0.81}{#1}}
+\newcommand{\DocumentationTok}[1]{\textcolor[rgb]{0.56,0.35,0.01}{\textbf{\textit{#1}}}}
+\newcommand{\ErrorTok}[1]{\textcolor[rgb]{0.64,0.00,0.00}{\textbf{#1}}}
+\newcommand{\ExtensionTok}[1]{#1}
+\newcommand{\FloatTok}[1]{\textcolor[rgb]{0.00,0.00,0.81}{#1}}
+\newcommand{\FunctionTok}[1]{\textcolor[rgb]{0.13,0.29,0.53}{\textbf{#1}}}
+\newcommand{\ImportTok}[1]{#1}
+\newcommand{\InformationTok}[1]{\textcolor[rgb]{0.56,0.35,0.01}{\textbf{\textit{#1}}}}
+\newcommand{\KeywordTok}[1]{\textcolor[rgb]{0.13,0.29,0.53}{\textbf{#1}}}
+\newcommand{\NormalTok}[1]{#1}
+\newcommand{\OperatorTok}[1]{\textcolor[rgb]{0.81,0.36,0.00}{\textbf{#1}}}
+\newcommand{\OtherTok}[1]{\textcolor[rgb]{0.56,0.35,0.01}{#1}}
+\newcommand{\PreprocessorTok}[1]{\textcolor[rgb]{0.56,0.35,0.01}{\textit{#1}}}
+\newcommand{\RegionMarkerTok}[1]{#1}
+\newcommand{\SpecialCharTok}[1]{\textcolor[rgb]{0.81,0.36,0.00}{\textbf{#1}}}
+\newcommand{\SpecialStringTok}[1]{\textcolor[rgb]{0.31,0.60,0.02}{#1}}
+\newcommand{\StringTok}[1]{\textcolor[rgb]{0.31,0.60,0.02}{#1}}
+\newcommand{\VariableTok}[1]{\textcolor[rgb]{0.00,0.00,0.00}{#1}}
+\newcommand{\VerbatimStringTok}[1]{\textcolor[rgb]{0.31,0.60,0.02}{#1}}
+\newcommand{\WarningTok}[1]{\textcolor[rgb]{0.56,0.35,0.01}{\textbf{\textit{#1}}}}
+\usepackage{graphicx}
+\makeatletter
+\def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
+\def\maxheight{\ifdim\Gin@nat@height>\textheight\textheight\else\Gin@nat@height\fi}
+\makeatother
+% Scale images if necessary, so that they will not overflow the page
+% margins by default, and it is still possible to overwrite the defaults
+% using explicit options in \includegraphics[width, height, ...]{}
+\setkeys{Gin}{width=\maxwidth,height=\maxheight,keepaspectratio}
+% Set default figure placement to htbp
+\makeatletter
+\def\fps@figure{htbp}
+\makeatother
+\setlength{\emergencystretch}{3em} % prevent overfull lines
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+\setcounter{secnumdepth}{-\maxdimen} % remove section numbering
+\ifLuaTeX
+  \usepackage{selnolig}  % disable illegal ligatures
+\fi
+\IfFileExists{bookmark.sty}{\usepackage{bookmark}}{\usepackage{hyperref}}
+\IfFileExists{xurl.sty}{\usepackage{xurl}}{} % add URL line breaks if available
+\urlstyle{same}
+\hypersetup{
+  pdftitle={INTRODUCTION-TO-SURVIVAL-ANALYSIS-IN-R-YOUTUBE-VIDEO.R},
+  pdfauthor={USER},
+  hidelinks,
+  pdfcreator={LaTeX via pandoc}}
+
+\title{INTRODUCTION-TO-SURVIVAL-ANALYSIS-IN-R-YOUTUBE-VIDEO.R}
+\author{USER}
+\date{2024-02-20}
+
+\begin{document}
+\maketitle
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\FunctionTok{library}\NormalTok{(tidyverse)}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{verbatim}
+## Warning: package 'ggplot2' was built under R version 4.3.2
+\end{verbatim}
+
+\begin{verbatim}
+## Warning: package 'dplyr' was built under R version 4.3.2
+\end{verbatim}
+
+\begin{verbatim}
+## Warning: package 'lubridate' was built under R version 4.3.2
+\end{verbatim}
+
+\begin{verbatim}
+## -- Attaching core tidyverse packages ------------------------ tidyverse 2.0.0 --
+## v dplyr     1.1.3     v readr     2.1.4
+## v forcats   1.0.0     v stringr   1.5.0
+## v ggplot2   3.4.4     v tibble    3.2.1
+## v lubridate 1.9.3     v tidyr     1.3.0
+## v purrr     1.0.2     
+## -- Conflicts ------------------------------------------ tidyverse_conflicts() --
+## x dplyr::filter() masks stats::filter()
+## x dplyr::lag()    masks stats::lag()
+## i Use the conflicted package (<http://conflicted.r-lib.org/>) to force all conflicts to become errors
+\end{verbatim}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\FunctionTok{library}\NormalTok{(survival)}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{verbatim}
+## Warning: package 'survival' was built under R version 4.3.2
+\end{verbatim}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\FunctionTok{library}\NormalTok{(ggsurvfit)}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{verbatim}
+## Warning: package 'ggsurvfit' was built under R version 4.3.2
+\end{verbatim}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\FunctionTok{library}\NormalTok{(survminer)}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{verbatim}
+## Warning: package 'survminer' was built under R version 4.3.2
+\end{verbatim}
+
+\begin{verbatim}
+## Loading required package: ggpubr
+\end{verbatim}
+
+\begin{verbatim}
+## Warning: package 'ggpubr' was built under R version 4.3.2
+\end{verbatim}
+
+\begin{verbatim}
+## 
+## Attaching package: 'survminer'
+## 
+## The following object is masked from 'package:survival':
+## 
+##     myeloma
+\end{verbatim}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\FunctionTok{library}\NormalTok{(broom)}
+
+\NormalTok{aml }\OtherTok{\textless{}{-}}\NormalTok{ aml}
+
+\NormalTok{km }\OtherTok{\textless{}{-}} \FunctionTok{survfit}\NormalTok{(}\FunctionTok{Surv}\NormalTok{(time,status) }\SpecialCharTok{\textasciitilde{}} \DecValTok{1}\NormalTok{,}\AttributeTok{data=}\NormalTok{aml)}
+\NormalTok{km}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{verbatim}
+## Call: survfit(formula = Surv(time, status) ~ 1, data = aml)
+## 
+##       n events median 0.95LCL 0.95UCL
+## [1,] 23     18     27      18      45
+\end{verbatim}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{aml }\SpecialCharTok{|\textgreater{}} 
+  \FunctionTok{survfit}\NormalTok{(}\FunctionTok{Surv}\NormalTok{(time,status)}\SpecialCharTok{\textasciitilde{}}\DecValTok{1}\NormalTok{,}\AttributeTok{data=}\NormalTok{\_)}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{verbatim}
+## Call: survfit(formula = Surv(time, status) ~ 1, data = aml)
+## 
+##       n events median 0.95LCL 0.95UCL
+## [1,] 23     18     27      18      45
+\end{verbatim}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\DocumentationTok{\#\# using tidy() from the broom package to create a tibble}
+\FunctionTok{tidy}\NormalTok{(km)}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{verbatim}
+## # A tibble: 18 x 8
+##     time n.risk n.event n.censor estimate std.error conf.high conf.low
+##    <dbl>  <dbl>   <dbl>    <dbl>    <dbl>     <dbl>     <dbl>    <dbl>
+##  1     5     23       2        0   0.913     0.0643     1       0.805 
+##  2     8     21       2        0   0.826     0.0957     0.996   0.685 
+##  3     9     19       1        0   0.783     0.110      0.971   0.631 
+##  4    12     18       1        0   0.739     0.124      0.942   0.580 
+##  5    13     17       1        1   0.696     0.138      0.912   0.531 
+##  6    16     15       0        1   0.696     0.138      0.912   0.531 
+##  7    18     14       1        0   0.646     0.157      0.878   0.475 
+##  8    23     13       2        0   0.547     0.196      0.803   0.372 
+##  9    27     11       1        0   0.497     0.218      0.762   0.324 
+## 10    28     10       0        1   0.497     0.218      0.762   0.324 
+## 11    30      9       1        0   0.442     0.248      0.718   0.272 
+## 12    31      8       1        0   0.386     0.282      0.671   0.223 
+## 13    33      7       1        0   0.331     0.321      0.622   0.177 
+## 14    34      6       1        0   0.276     0.369      0.569   0.134 
+## 15    43      5       1        0   0.221     0.432      0.515   0.0947
+## 16    45      4       1        1   0.166     0.519      0.458   0.0598
+## 17    48      2       1        0   0.0828    0.877      0.462   0.0148
+## 18   161      1       0        1   0.0828    0.877      0.462   0.0148
+\end{verbatim}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{km\_table }\OtherTok{\textless{}{-}} \FunctionTok{tidy}\NormalTok{(km)}
+
+\FunctionTok{plot}\NormalTok{(km,}\AttributeTok{xlab=}\StringTok{"Months"}\NormalTok{,}\AttributeTok{ylab=}\StringTok{"Survival probability"}\NormalTok{)}
+\end{Highlighting}
+\end{Shaded}
+
+\includegraphics{INTRODUCTION-TO-SURVIVAL-ANALYSIS-IN-R-YOUTUBE-VIDEO_files/figure-latex/unnamed-chunk-1-1.pdf}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{km2 }\OtherTok{\textless{}{-}}\NormalTok{ aml }\SpecialCharTok{|\textgreater{}} 
+  \FunctionTok{survfit}\NormalTok{(}\FunctionTok{Surv}\NormalTok{(time,status)}\SpecialCharTok{\textasciitilde{}}\NormalTok{x,}\AttributeTok{data=}\NormalTok{\_)}
+
+\NormalTok{km\_table2 }\OtherTok{\textless{}{-}} \FunctionTok{tidy}\NormalTok{(km2)}
+\NormalTok{km\_table2}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{verbatim}
+## # A tibble: 20 x 9
+##     time n.risk n.event n.censor estimate std.error conf.high conf.low strata   
+##    <dbl>  <dbl>   <dbl>    <dbl>    <dbl>     <dbl>     <dbl>    <dbl> <chr>    
+##  1     9     11       1        0   0.909     0.0953     1       0.754  x=Mainta~
+##  2    13     10       1        1   0.818     0.142      1       0.619  x=Mainta~
+##  3    18      8       1        0   0.716     0.195      1       0.488  x=Mainta~
+##  4    23      7       1        0   0.614     0.249      0.999   0.377  x=Mainta~
+##  5    28      6       0        1   0.614     0.249      0.999   0.377  x=Mainta~
+##  6    31      5       1        0   0.491     0.334      0.946   0.255  x=Mainta~
+##  7    34      4       1        0   0.368     0.442      0.875   0.155  x=Mainta~
+##  8    45      3       0        1   0.368     0.442      0.875   0.155  x=Mainta~
+##  9    48      2       1        0   0.184     0.834      0.944   0.0359 x=Mainta~
+## 10   161      1       0        1   0.184     0.834      0.944   0.0359 x=Mainta~
+## 11     5     12       2        0   0.833     0.129      1       0.647  x=Nonmai~
+## 12     8     10       2        0   0.667     0.204      0.995   0.447  x=Nonmai~
+## 13    12      8       1        0   0.583     0.244      0.941   0.362  x=Nonmai~
+## 14    16      7       0        1   0.583     0.244      0.941   0.362  x=Nonmai~
+## 15    23      6       1        0   0.486     0.305      0.883   0.268  x=Nonmai~
+## 16    27      5       1        0   0.389     0.378      0.816   0.185  x=Nonmai~
+## 17    30      4       1        0   0.292     0.476      0.741   0.115  x=Nonmai~
+## 18    33      3       1        0   0.194     0.627      0.664   0.0569 x=Nonmai~
+## 19    43      2       1        0   0.0972    0.945      0.620   0.0153 x=Nonmai~
+## 20    45      1       1        0   0       Inf         NA      NA      x=Nonmai~
+\end{verbatim}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\FunctionTok{plot}\NormalTok{(km2)}
+
+
+\DocumentationTok{\#\# using ggsurvplot from survminer}
+\FunctionTok{ggsurvplot}\NormalTok{(km2,}\AttributeTok{conf.int =} \ConstantTok{TRUE}\NormalTok{,}
+           \AttributeTok{risk.table =} \ConstantTok{TRUE}\NormalTok{)}
+\end{Highlighting}
+\end{Shaded}
+
+\includegraphics{INTRODUCTION-TO-SURVIVAL-ANALYSIS-IN-R-YOUTUBE-VIDEO_files/figure-latex/unnamed-chunk-1-2.pdf}
+\includegraphics{INTRODUCTION-TO-SURVIVAL-ANALYSIS-IN-R-YOUTUBE-VIDEO_files/figure-latex/unnamed-chunk-1-3.pdf}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\FunctionTok{ggsurvplot}\NormalTok{(km2)}
+\end{Highlighting}
+\end{Shaded}
+
+\includegraphics{INTRODUCTION-TO-SURVIVAL-ANALYSIS-IN-R-YOUTUBE-VIDEO_files/figure-latex/unnamed-chunk-1-4.pdf}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\DocumentationTok{\#\# to calculate the Logrank statistic to compare the two curves}
+\DocumentationTok{\#\# Ho : survival across the two groups are equivalent}
+
+\FunctionTok{survdiff}\NormalTok{(}\FunctionTok{Surv}\NormalTok{(time,status)}\SpecialCharTok{\textasciitilde{}}\NormalTok{x,}\AttributeTok{data=}\NormalTok{aml)}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{verbatim}
+## Call:
+## survdiff(formula = Surv(time, status) ~ x, data = aml)
+## 
+##                  N Observed Expected (O-E)^2/E (O-E)^2/V
+## x=Maintained    11        7    10.69      1.27       3.4
+## x=Nonmaintained 12       11     7.31      1.86       3.4
+## 
+##  Chisq= 3.4  on 1 degrees of freedom, p= 0.07
+\end{verbatim}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\DocumentationTok{\#\#}
+
+
+
+
+
+
+
+\DocumentationTok{\#\#using ggsurvfit}
+\NormalTok{km }\SpecialCharTok{|\textgreater{}} 
+  \FunctionTok{ggsurvfit}\NormalTok{(}\AttributeTok{color=}\StringTok{\textquotesingle{}steelblue\textquotesingle{}}\NormalTok{,}\AttributeTok{linewidth=}\DecValTok{1}\NormalTok{)}\SpecialCharTok{+}
+  \FunctionTok{add\_risktable}\NormalTok{()}\SpecialCharTok{+}
+  \FunctionTok{add\_confidence\_interval}\NormalTok{(}\AttributeTok{fill=}\StringTok{"steelblue"}\NormalTok{)}\SpecialCharTok{+}
+  \FunctionTok{labs}\NormalTok{(}\AttributeTok{x=}\StringTok{"Months"}\NormalTok{)}
+\end{Highlighting}
+\end{Shaded}
+
+\includegraphics{INTRODUCTION-TO-SURVIVAL-ANALYSIS-IN-R-YOUTUBE-VIDEO_files/figure-latex/unnamed-chunk-1-5.pdf}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{aml }\SpecialCharTok{|\textgreater{}} 
+\FunctionTok{survfit2}\NormalTok{(}\FunctionTok{Surv}\NormalTok{(time,status)}\SpecialCharTok{\textasciitilde{}}\NormalTok{x,}\AttributeTok{data=}\NormalTok{\_) }\SpecialCharTok{|\textgreater{}} 
+  \FunctionTok{ggsurvfit}\NormalTok{(}\AttributeTok{linewidth=}\DecValTok{1}\NormalTok{)}\SpecialCharTok{+}
+  \FunctionTok{add\_risktable}\NormalTok{()}\SpecialCharTok{+}
+  \FunctionTok{scale\_color\_brewer}\NormalTok{(}\AttributeTok{palette=}\StringTok{"Set1"}\NormalTok{)}\SpecialCharTok{+}
+  \FunctionTok{add\_confidence\_interval}\NormalTok{()}\SpecialCharTok{+}
+  \FunctionTok{scale\_fill\_brewer}\NormalTok{(}\AttributeTok{palette =} \StringTok{"Set1"}\NormalTok{)}
+\end{Highlighting}
+\end{Shaded}
+
+\includegraphics{INTRODUCTION-TO-SURVIVAL-ANALYSIS-IN-R-YOUTUBE-VIDEO_files/figure-latex/unnamed-chunk-1-6.pdf}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\DocumentationTok{\#\# if you want to fit KM for the whole dataset you use \textasciitilde{}1 }
+\DocumentationTok{\#\# if you want to check survival by treatment groups,use \textasciitilde{}treatment}
+
+
+
+
+\CommentTok{\# COX PROPORTIONAL HAZARDS MODEL {-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}{-}}
+
+\NormalTok{lung }\OtherTok{\textless{}{-}}\NormalTok{ lung}
+\DocumentationTok{\#\# t =survival time in days}
+\DocumentationTok{\#\# status 1= censored, 2 = dead}
+\DocumentationTok{\#\# sex 1=male, 2 = female}
+\DocumentationTok{\#\# wt.loss = weight loss in pounds in last 6 months}
+\CommentTok{\#3 age = age in years ( assessed at beginning)}
+
+\DocumentationTok{\#\# Cox model = coxph(formula,data= )}
+\DocumentationTok{\#\# formula = Surv(time, event) \textasciitilde{}x1 + x2 + ..xp}
+
+\NormalTok{lung\_cox }\OtherTok{\textless{}{-}} \FunctionTok{coxph}\NormalTok{(}\FunctionTok{Surv}\NormalTok{(time,status) }\SpecialCharTok{\textasciitilde{}}\NormalTok{age }\SpecialCharTok{+}\NormalTok{ sex }\SpecialCharTok{+}\NormalTok{ wt.loss,}\AttributeTok{data =}\NormalTok{ lung)}
+\FunctionTok{summary}\NormalTok{(lung\_cox)}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{verbatim}
+## Call:
+## coxph(formula = Surv(time, status) ~ age + sex + wt.loss, data = lung)
+## 
+##   n= 214, number of events= 152 
+##    (14 observations deleted due to missingness)
+## 
+##               coef  exp(coef)   se(coef)      z Pr(>|z|)   
+## age      0.0200882  1.0202913  0.0096644  2.079   0.0377 * 
+## sex     -0.5210319  0.5939074  0.1743541 -2.988   0.0028 **
+## wt.loss  0.0007596  1.0007599  0.0061934  0.123   0.9024   
+## ---
+## Signif. codes:  0 '***' 0.001 '**' 0.01 '*' 0.05 '.' 0.1 ' ' 1
+## 
+##         exp(coef) exp(-coef) lower .95 upper .95
+## age        1.0203     0.9801    1.0011    1.0398
+## sex        0.5939     1.6838    0.4220    0.8359
+## wt.loss    1.0008     0.9992    0.9887    1.0130
+## 
+## Concordance= 0.612  (se = 0.027 )
+## Likelihood ratio test= 14.67  on 3 df,   p=0.002
+## Wald test            = 13.98  on 3 df,   p=0.003
+## Score (logrank) test = 14.24  on 3 df,   p=0.003
+\end{verbatim}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\DocumentationTok{\#\# tidying up cox regression output}
+
+\NormalTok{lungcoxtab }\OtherTok{\textless{}{-}} \FunctionTok{tidy}\NormalTok{(lung\_cox,}\AttributeTok{exponentiate=}\ConstantTok{TRUE}\NormalTok{,}\AttributeTok{conf.int =} \ConstantTok{TRUE}\NormalTok{)}
+\NormalTok{lungcoxtab }
+\end{Highlighting}
+\end{Shaded}
+
+\begin{verbatim}
+## # A tibble: 3 x 7
+##   term    estimate std.error statistic p.value conf.low conf.high
+##   <chr>      <dbl>     <dbl>     <dbl>   <dbl>    <dbl>     <dbl>
+## 1 age        1.02    0.00966     2.08  0.0377     1.00      1.04 
+## 2 sex        0.594   0.174      -2.99  0.00280    0.422     0.836
+## 3 wt.loss    1.00    0.00619     0.123 0.902      0.989     1.01
+\end{verbatim}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\DocumentationTok{\#\# Plotting the Hazard ratios}
+\NormalTok{lungcoxtab }\SpecialCharTok{|\textgreater{}} 
+  \FunctionTok{ggplot}\NormalTok{(}\FunctionTok{aes}\NormalTok{(}\AttributeTok{y=}\NormalTok{term,}\AttributeTok{x=}\NormalTok{estimate,}\AttributeTok{xmin=}\NormalTok{conf.low,}\AttributeTok{xmax=}\NormalTok{conf.high))}\SpecialCharTok{+}
+  \FunctionTok{geom\_pointrange}\NormalTok{()}\SpecialCharTok{+}
+  \FunctionTok{geom\_vline}\NormalTok{(}\AttributeTok{xintercept=}\DecValTok{1}\NormalTok{,}\AttributeTok{color=}\StringTok{"red"}\NormalTok{)}\SpecialCharTok{+}
+  \FunctionTok{labs}\NormalTok{(}\AttributeTok{x=}\StringTok{"Hazard Ratios"}\NormalTok{,}\AttributeTok{title=}\StringTok{"Hazard Ratios \& 95\% CIs"}\NormalTok{,}\AttributeTok{y=} \StringTok{"Predictor Variable"}\NormalTok{)}\SpecialCharTok{+}
+  \FunctionTok{theme\_bw}\NormalTok{()}
+\end{Highlighting}
+\end{Shaded}
+
+\includegraphics{INTRODUCTION-TO-SURVIVAL-ANALYSIS-IN-R-YOUTUBE-VIDEO_files/figure-latex/unnamed-chunk-1-7.pdf}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\DocumentationTok{\#\# Predicting survival after coxph() with survfit()}
+
+\DocumentationTok{\#\# predict survival fxn for subject with mean values on all covariates}
+\DocumentationTok{\#\# However predicting survival at a mean o all covariates may not make sense}
+\DocumentationTok{\#\# especialy if one or more of the covariates are factors(categorical)}
+\DocumentationTok{\#\# instead it is recommended to supply to always supply a data frame of covariate values }
+\DocumentationTok{\#\# at which to predict the survival function to the newdata =() option of survfit()}
+
+\DocumentationTok{\#\# making a new data frame}
+\NormalTok{plotdata }\OtherTok{\textless{}{-}} \FunctionTok{data.frame}\NormalTok{(}\AttributeTok{age=}\FunctionTok{mean}\NormalTok{(lung}\SpecialCharTok{$}\NormalTok{age,}\AttributeTok{na.rm=}\ConstantTok{TRUE}\NormalTok{),}
+                       \AttributeTok{sex=}\DecValTok{1}\SpecialCharTok{:}\DecValTok{2}\NormalTok{,}
+                       \AttributeTok{wt.loss=}\FunctionTok{mean}\NormalTok{(lung}\SpecialCharTok{$}\NormalTok{wt.loss,}\AttributeTok{na.rm=}\ConstantTok{TRUE}\NormalTok{))}
+
+\NormalTok{plotdata}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{verbatim}
+##        age sex  wt.loss
+## 1 62.44737   1 9.831776
+## 2 62.44737   2 9.831776
+\end{verbatim}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\DocumentationTok{\#\# supplying newdata frame to survfit}
+\NormalTok{surv\_by\_sex }\OtherTok{\textless{}{-}} \FunctionTok{survfit}\NormalTok{(lung\_cox,}\AttributeTok{newdata =}\NormalTok{ plotdata)}
+
+\NormalTok{survbysex\_tab }\OtherTok{\textless{}{-}}  \FunctionTok{tidy}\NormalTok{(surv\_by\_sex)}
+
+\FunctionTok{plot}\NormalTok{(surv\_by\_sex)}
+\end{Highlighting}
+\end{Shaded}
+
+\includegraphics{INTRODUCTION-TO-SURVIVAL-ANALYSIS-IN-R-YOUTUBE-VIDEO_files/figure-latex/unnamed-chunk-1-8.pdf}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\FunctionTok{ggsurvplot}\NormalTok{(surv\_by\_sex,}\AttributeTok{data=}\NormalTok{plotdata,}\AttributeTok{censor=}\ConstantTok{FALSE}\NormalTok{,}\AttributeTok{legend.labs=}\FunctionTok{c}\NormalTok{(}\StringTok{"Male"}\NormalTok{,}\StringTok{"Female"}\NormalTok{))}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{verbatim}
+## Warning: `gather_()` was deprecated in tidyr 1.2.0.
+## i Please use `gather()` instead.
+## i The deprecated feature was likely used in the survminer package.
+##   Please report the issue at <https://github.com/kassambara/survminer/issues>.
+## This warning is displayed once every 8 hours.
+## Call `lifecycle::last_lifecycle_warnings()` to see where this warning was
+## generated.
+\end{verbatim}
+
+\includegraphics{INTRODUCTION-TO-SURVIVAL-ANALYSIS-IN-R-YOUTUBE-VIDEO_files/figure-latex/unnamed-chunk-1-9.pdf}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\DocumentationTok{\#\# Assesing the proportional hazards assumptions}
+
+\DocumentationTok{\#\# 1) Chi{-}squared test based on Scheonfeld residuals is available with cox.zph()}
+\DocumentationTok{\#\#to test the hypothesis  Ho:covariate efect is constant(proportional) over time}
+\DocumentationTok{\#\# Ha: covariate effect changes over time}
+
+\FunctionTok{cox.zph}\NormalTok{(lung\_cox)}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{verbatim}
+##          chisq df    p
+## age     0.5077  1 0.48
+## sex     2.5489  1 0.11
+## wt.loss 0.0144  1 0.90
+## GLOBAL  3.0051  3 0.39
+\end{verbatim}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\FunctionTok{plot}\NormalTok{(}\FunctionTok{cox.zph}\NormalTok{(lung\_cox),}\AttributeTok{col=}\StringTok{"steelblue"}\NormalTok{)}
+\end{Highlighting}
+\end{Shaded}
+
+\includegraphics{INTRODUCTION-TO-SURVIVAL-ANALYSIS-IN-R-YOUTUBE-VIDEO_files/figure-latex/unnamed-chunk-1-10.pdf}
+\includegraphics{INTRODUCTION-TO-SURVIVAL-ANALYSIS-IN-R-YOUTUBE-VIDEO_files/figure-latex/unnamed-chunk-1-11.pdf}
+\includegraphics{INTRODUCTION-TO-SURVIVAL-ANALYSIS-IN-R-YOUTUBE-VIDEO_files/figure-latex/unnamed-chunk-1-12.pdf}
+
+\end{document}

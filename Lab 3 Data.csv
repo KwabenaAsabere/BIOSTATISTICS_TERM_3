@@ -1,0 +1,74 @@
+gender,age,weight,wght18,height,phys,aspirin,vitc,vite,multivit,calcium,blood,chol,health,smoke100,cursmoke,wtchange,exhrs,exintens,degree,program,bmi,wtclass,wtgen,agegp
+Female,40,145,140,65,Within the past year,no,yes,yes,no,yes,no,no,Very good,no,Not at all,Lose weight,1-3 hours,Moderate,Master,PhD/DrPH/ScD,24.178106,1,Women -L,40+
+Female,33,110,95,63,Within the past year,no,no,no,no,no,no,no,Good,yes,Every day,Maintain current weight,0 hours,Low,Bachelor,MHS/MS/ScM,19.52507,2,Women - M|G,30-39
+Female,32,130,132,66,Within the past year,no,no,yes,no,no,no,no,Excellent,no,Not at all,Lose weight,4-7 hours,Moderate,MD,PhD/DrPH/ScD,21.025023,1,Women -L,30-39
+Female,32,125,118,64,Within the past year,no,no,no,no,no,no,no,Excellent,yes,Not at all,Maintain current weight,1-3 hours,Moderate,MD,MHS/MS/ScM,21.499634,2,Women - M|G,30-39
+Female,32,160,130,68,Within the past year,no,yes,yes,yes,yes,no,no,Very good,no,Not at all,Lose weight,4-7 hours,High,Bachelor,MHS/MS/ScM,24.377163,1,Women -L,30-39
+Female,35,107,97,61,Within the past year,no,no,no,no,no,no,no,Very good,no,Not at all,Maintain current weight,1-3 hours,Moderate,MD,MPH,20.258398,2,Women - M|G,30-39
+Female,38,147,110,60,Within the past 1-2 years,no,no,no,no,no,no,no,Fair,no,Not at all,Lose weight,0 hours,Low,MD,PhD/DrPH/ScD,28.767084,1,Women -L,30-39
+Female,37,140,125,66,Within the past year,no,no,no,no,no,no,no,Very good,no,Not at all,Lose weight,4-7 hours,Moderate,Master,Special student,22.642332,1,Women -L,30-39
+Female,40,140,128,68,Within the past year,no,no,no,yes,no,no,no,Excellent,no,Not at all,Maintain current weight,4-7 hours,Moderate,MD,MPH,21.330017,2,Women - M|G,40+
+Female,35,150,110,68,Within the past 1-2 years,no,no,no,no,no,no,no,Very good,no,Not at all,Lose weight,0 hours,Low,Other doctoral,MPH,22.85359,1,Women -L,30-39
+Female,48,198,122,68,Within the past year,no,no,yes,yes,yes,no,no,Excellent,no,Not at all,Lose weight,1-3 hours,High,MD,Special student,30.166739,1,Women -L,40+
+Female,41,180,115,62,Within the past year,no,no,no,no,no,no,no,Good,no,Not at all,Lose weight,0 hours,None,Master,PhD/DrPH/ScD,32.989075,1,Women -L,40+
+Female,51,100,100,59,Within the past year,no,no,no,no,yes,no,no,Excellent,no,Not at all,Maintain current weight,1-3 hours,Moderate,MD,Special student,20.238438,2,Women - M|G,40+
+Female,43,158,150,70,Within the past year,no,no,no,yes,yes,no,no,Very good,no,Not at all,Maintain current weight,0 hours,Moderate,Master,PhD/DrPH/ScD,22.71653,2,Women - M|G,40+
+Female,40,140,135,70,Within the past year,no,no,yes,yes,no,no,no,Excellent,no,Not at all,Maintain current weight,4-7 hours,Moderate,Master,MPH,20.128571,2,Women - M|G,40+
+Female,34,137,150,67,Within the past year,yes,yes,no,yes,yes,no,no,Excellent,no,Not at all,Maintain current weight,1-3 hours,Moderate,Master,PhD/DrPH/ScD,21.500668,2,Women - M|G,30-39
+Female,37,93,185,76,Within the past year,no,no,no,no,no,no,no,Good,no,Not at all,Lose weight,1-3 hours,Moderate,MD,Special student,11.34323,1,Women -L,30-39
+Female,36,133,135,67,Within the past 1-2 years,no,no,yes,yes,yes,no,no,Excellent,yes,Not at all,Maintain current weight,1-3 hours,Moderate,Bachelor,MPH,20.872911,2,Women - M|G,30-39
+Female,41,137,125,67,Within the past year,no,no,no,yes,yes,no,no,Excellent,no,Not at all,Lose weight,4-7 hours,High,MD,Special student,21.500668,1,Women -L,40+
+Female,31,132,125,62,Within the past 1-2 years,yes,yes,no,no,no,no,no,Good,no,Some days,Lose weight,0 hours,Low,Master,MHS/MS/ScM,24.191988,1,Women -L,30-39
+Female,36,155,155,71,Within the past year,no,no,no,no,no,no,no,Good,no,Not at all,Maintain current weight,0 hours,Low,MD,MPH,21.661873,2,Women - M|G,30-39
+Female,35,135,126,66,Within the past 2-5 years,no,no,no,yes,no,no,no,Excellent,no,Not at all,Maintain current weight,1-3 hours,Moderate,Other doctoral,PhD/DrPH/ScD,21.833677,2,Women - M|G,30-39
+Female,35,132,130,66,Within the past year,no,no,no,no,no,no,no,Excellent,no,Not at all,Maintain current weight,1-3 hours,Moderate,MD,MPH,21.348484,2,Women - M|G,30-39
+Female,32,110,100,59,Within the past year,no,no,no,no,no,no,no,Very good,no,Not at all,Lose weight,4-7 hours,Moderate,Master,PhD/DrPH/ScD,22.262281,1,Women -L,30-39
+Female,35,125,132,74,Within the past year,no,no,no,no,no,no,no,Very good,no,Not at all,Lose weight,4-7 hours,Moderate,Master,PhD/DrPH/ScD,16.081537,1,Women -L,30-39
+Female,34,135,130,64,Within the past year,no,no,no,yes,yes,no,no,Excellent,no,Not at all,Maintain current weight,1-3 hours,Moderate,MD,Special student,23.219604,2,Women - M|G,30-39
+Female,40,102,125,55,Within the past year,no,yes,no,yes,no,no,no,Good,no,Not at all,Maintain current weight,1-3 hours,Low,Master,Other,23.755041,2,Women - M|G,40+
+Female,52,125,120,69,Within the past year,yes,no,no,no,no,no,no,Very good,no,Not at all,Maintain current weight,1-3 hours,Moderate,Master,Special student,18.496639,2,Women - M|G,40+
+Female,31,122,100,62,Within the past year,no,no,no,yes,yes,no,no,Excellent,no,Not at all,Maintain current weight,1-3 hours,High,Other doctoral,MPH,22.359261,2,Women - M|G,30-39
+Female,35,110,115,64,Within the past 1-2 years,no,no,no,no,no,no,no,Excellent,no,Not at all,Maintain current weight,1-3 hours,High,MD,Special student,18.919678,2,Women - M|G,30-39
+Female,43,134,115,66,Within the past year,no,no,no,no,no,no,no,Very good,no,Not at all,Lose weight,1-3 hours,Moderate,MD,MPH,21.671947,1,Women -L,40+
+Female,34,145,145,65,Within the past year,no,yes,no,yes,no,no,no,Excellent,no,Not at all,Lose weight,4-7 hours,Moderate,Master,PhD/DrPH/ScD,24.178106,1,Women -L,30-39
+Female,35,100,115,62,Within the past year,no,no,no,no,yes,no,no,Excellent,no,Not at all,Maintain current weight,0 hours,None,MD,MHS/MS/ScM,18.327263,2,Women - M|G,30-39
+Female,35,135,132,71,Within the past year,no,no,no,yes,no,no,no,Excellent,no,Not at all,Maintain current weight,4-7 hours,Moderate,MD,MHS/MS/ScM,18.866793,2,Women - M|G,30-39
+Female,33,175,130,66,Within the past year,no,no,no,yes,yes,no,no,Very good,no,Not at all,Lose weight,0 hours,Low,MD,Special student,28.302916,1,Women -L,30-39
+Female,32,113,110,64,Within the past 1-2 years,no,no,no,no,no,no,no,Good,no,Not at all,Maintain current weight,1-3 hours,Moderate,Master,PhD/DrPH/ScD,19.435669,2,Women - M|G,30-39
+Female,41,125,110,59,Within the past 1-2 years,no,no,no,yes,no,no,no,Good,no,Not at all,Lose weight,0 hours,Moderate,Master,Special student,25.298046,1,Women -L,40+
+Female,43,132,105,64,Within the past year,no,no,no,no,no,no,no,Good,no,Not at all,Lose weight,1-3 hours,Low,MD,MPH,22.703613,1,Women -L,40+
+Female,32,130,145,66,Within the past year,no,no,no,no,no,no,no,Very good,no,Not at all,Lose weight,0 hours,None,MD,MPH,21.025023,1,Women -L,30-39
+Female,33,175,110,66,Within the past year,no,no,no,yes,yes,no,no,Good,yes,Not at all,Lose weight,0 hours,Low,MD,MPH,28.302916,1,Women -L,30-39
+Female,32,150,135,70,Within the past year,no,no,no,no,no,no,no,Very good,yes,Not at all,Lose weight,4-7 hours,High,MD,Special student,21.566326,1,Women -L,30-39
+Female,32,120,90,66,Within the past 2-5 years,no,no,no,yes,no,no,no,Excellent,no,Not at all,Maintain current weight,4-7 hours,Moderate,Bachelor,MHS/MS/ScM,19.407713,2,Women - M|G,30-39
+Female,37,155,140,64,Within the past 2-5 years,no,no,no,no,no,no,no,Excellent,no,Not at all,Lose weight,1-3 hours,Moderate,MD,MPH,26.659546,1,Women -L,30-39
+Female,38,150,140,66,Within the past 2-5 years,no,no,no,no,no,no,no,Very good,no,Not at all,Lose weight,1-3 hours,Moderate,MD,Other,24.259642,1,Women -L,30-39
+Female,33,120,100,63,Within the past year,no,no,yes,yes,no,no,no,Good,no,Not at all,Maintain current weight,0 hours,Moderate,Other doctoral,MPH,21.300076,2,Women - M|G,30-39
+Female,55,180,132,70,Within the past 1-2 years,yes,no,no,yes,yes,no,no,Very good,no,Not at all,Lose weight,1-3 hours,Low,MD,MPH,25.879591,1,Women -L,40+
+Female,33,243,165,66,Within the past 1-2 years,no,no,no,no,no,no,no,Fair,no,Not at all,Lose weight,0 hours,None,MD,MPH,39.300621,1,Women -L,30-39
+Female,33,138,128,67,Within the past year,no,no,no,no,no,no,no,Good,no,Not at all,Maintain current weight,1-3 hours,Low,MD,MPH,21.657608,2,Women - M|G,30-39
+Female,37,120,110,60,Within the past year,no,no,no,yes,no,no,no,Very good,no,Not at all,Lose weight,0 hours,None,MD,MPH,23.483334,1,Women -L,30-39
+Female,37,121,106,61,Within the past year,no,no,no,yes,no,no,no,Good,no,Not at all,Maintain current weight,0 hours,Low,Bachelor,MPH,22.909029,2,Women - M|G,30-39
+Female,35,125,100,60,5 or more years,no,no,yes,no,no,no,no,Good,no,Not at all,Lose weight,0 hours,Moderate,Other doctoral,MPH,24.461805,1,Women -L,30-39
+Female,37,165,140,68,Within the past year,no,no,yes,no,yes,no,no,Very good,no,Not at all,Lose weight,0 hours,None,Master,MPH,25.138948,1,Women -L,30-39
+Female,33,134,140,62,Within the past year,no,no,no,yes,no,no,no,Very good,no,Not at all,Maintain current weight,8-13 hours,High,Other doctoral,Other,24.558533,2,Women - M|G,30-39
+Female,43,155,140,70,Within the past year,yes,yes,yes,yes,yes,no,no,Excellent,yes,Not at all,Maintain current weight,8-13 hours,High,Master,Special student,22.285204,2,Women - M|G,40+
+Female,34,180,125,67,Within the past year,no,no,no,yes,no,no,no,Excellent,no,Not at all,Gain weight,0 hours,None,Bachelor,MHS/MS/ScM,28.249054,2,Women - M|G,30-39
+Female,32,120,135,62,5 or more years,no,no,no,yes,no,no,no,Very good,no,Not at all,Lose weight,1-3 hours,High,Other doctoral,PhD/DrPH/ScD,21.992716,1,Women -L,30-39
+Female,31,137,140,64,Within the past year,no,no,yes,yes,no,no,no,Good,no,Not at all,Lose weight,4-7 hours,Moderate,Bachelor,Special student,23.563599,1,Women -L,30-39
+Female,32,150,140,64,Within the past 2-5 years,no,no,no,yes,no,no,no,Excellent,no,Not at all,Maintain current weight,4-7 hours,Moderate,MD,MPH,25.799561,2,Women - M|G,30-39
+Female,35,215,198,73,Within the past year,no,no,no,no,no,no,no,Very good,no,Not at all,Lose weight,0 hours,High,Master,Special student,28.42325,1,Women -L,30-39
+Female,42,165,125,62,Within the past year,no,no,no,no,no,no,no,Very good,no,Not at all,Lose weight,4-7 hours,Moderate,Master,PhD/DrPH/ScD,30.239985,1,Women -L,40+
+Female,32,117,120,67,Within the past year,no,yes,no,yes,no,no,no,Very good,no,Not at all,Maintain current weight,4-7 hours,Moderate,Master,MHS/MS/ScM,18.361885,2,Women - M|G,30-39
+Female,39,90,88,59,Within the past 2-5 years,no,yes,no,yes,yes,no,no,Excellent,no,Not at all,Maintain current weight,0 hours,Low,MD,MPH,18.214594,2,Women - M|G,30-39
+Female,51,160,124,67,Within the past year,yes,yes,no,yes,yes,no,no,Very good,yes,Not at all,Lose weight,8-13 hours,Moderate,Other doctoral,MPH,25.11027,1,Women -L,40+
+Female,31,105,108,60,Within the past 2-5 years,no,no,no,yes,yes,no,no,Excellent,no,Not at all,Lose weight,1-3 hours,Low,MD,MHS/MS/ScM,20.547916,1,Women -L,30-39
+Female,33,153,120,67,Within the past 1-2 years,no,no,no,no,no,no,no,Very good,no,Not at all,Lose weight,1-3 hours,Moderate,MD,Special student,24.011696,1,Women -L,30-39
+Female,31,150,100,65,Within the past 1-2 years,no,no,no,no,no,no,no,Good,no,Not at all,Lose weight,1-3 hours,Low,Bachelor,MHS/MS/ScM,25.011835,1,Women -L,30-39
+Female,36,159,126,66,Within the past year,no,no,no,no,no,no,no,Excellent,no,Not at all,Lose weight,0 hours,None,Other doctoral,PhD/DrPH/ScD,25.715219,1,Women -L,30-39
+Female,32,160,135,63,Within the past 1-2 years,no,no,no,yes,yes,no,no,Very good,no,Not at all,Lose weight,1-3 hours,Moderate,MD,MPH,28.400101,1,Women -L,30-39
+Female,31,105,110,63,Within the past year,no,no,no,yes,yes,no,no,Excellent,no,Not at all,Maintain current weight,1-3 hours,Low,MD,Special student,18.637566,2,Women - M|G,30-39
+Female,52,170,145,69,Within the past year,no,no,no,no,no,no,no,Excellent,no,Not at all,Maintain current weight,4-7 hours,High,Other doctoral,Other,25.15543,2,Women - M|G,40+
+Female,38,145,130,69,Within the past year,yes,no,no,no,no,no,no,Excellent,no,Not at all,Lose weight,1-3 hours,Low,MD,Special student,21.456102,1,Women -L,30-39
+Female,32,163,128,79,Within the past year,no,no,no,no,no,no,no,Very good,no,Not at all,Lose weight,1-3 hours,Moderate,Bachelor,Special student,18.399857,1,Women -L,30-39
+Female,32,125,100,65,Within the past year,no,no,no,yes,no,no,no,Very good,no,Not at all,Maintain current weight,1-3 hours,Moderate,MD,MPH,20.843195,2,Women - M|G,30-39

@@ -1,0 +1,475 @@
+id,sex,age,weight,wght18,height,phys,aspirin,vitc,vite,multivit,calcium,blood,chol,newhealth,health,smoke100,sm100age,cursmoke,wtchange,exhrs,exintens,degree,program,mstatus,mage,agepub
+122,Male,29,184,165,,1-12 months ago,,Yes,Yes,Yes,,,,Excellent,Excellent,No,,Not at all,Lose weight,14+,High,MD,MPH/MPH-MBA/MPH-MSN,No,,27
+77,Male,26,160,150,,1-12 months ago,No,No,No,Yes,No,No,No,Good,Good,No,,Not at all,Lose weight,1-3,Moderate,Bachelors,MHS/MS/ScM/MSE/MPP,No,,24
+73,Female,22,119,119,65,1-12 months ago,No,No,No,Yes,No,No,No,Very good,Very Good,No,,Not at all,Lose weight,4-7,Moderate,Other,MHS/MS/ScM/MSE/MPP,No,,19
+98,Female,26,120,130,47,1-2 years ago,No,Yes,Yes,Yes,No,No,No,Very good,Very Good,No,,Not at all,Lose weight,1-3,Low,MD,MPH/MPH-MBA/MPH-MSN,No,,24
+284,Female,24,90,90,59,1-12 months ago,No,No,No,No,No,No,No,Good,Good,No,,Not at all,Maintain current weight,,None,Bachelors,MSPH,No,,19
+444,Female,36,110,100,60,2-5 years ago,No,Yes,No,Yes,Yes,No,No,Very good,Very Good,Yes,14,Not at all,Lose weight,1-3,Low,Masters,PhD/DrPH/ScD,Yes,29,25
+18,Female,23,150,140,60,1-12 months ago,No,No,No,No,No,No,No,Very good,Very Good,No,,Not at all,Lose weight,4-7,High,Bachelors,MSPH,No,,19
+133,Female,25,120,105,60,1-12 months ago,No,Yes,No,No,No,No,No,Excellent,Excellent,No,,Not at all,Maintain current weight,1-3,Moderate,Bachelors,MPH/MPH-MBA/MPH-MSN,No,,20
+208,Male,62,176,160,60,1-12 months ago,Yes,No,No,,No,No,No,Very good,Very Good,No,,Not at all,Maintain current weight,1-3,Low,MD,MPH/MPH-MBA/MPH-MSN,Yes,35,59
+302,Female,23,110,110,60,1-12 months ago,No,No,No,No,Yes,No,No,Very good,Very Good,No,,Not at all,Maintain current weight,4-7,Moderate,Bachelors,MHS/MS/ScM/MSE/MPP,No,,19
+265,Male,26,168,158,60,1-12 months ago,No,No,No,No,No,No,No,Excellent,Excellent,No,,Some days,Gain weight,8-13,Moderate,Other Doctoral,PhD/DrPH/ScD,No,,23
+441,Female,22,99,110,60,1-2 years ago,No,No,No,No,No,No,No,Excellent,Excellent,No,,Not at all,Lose weight,4-7,Low,Bachelors,MHS/MS/ScM/MSE/MPP,No,,20
+193,Female,28,124,118,60,2-5 years ago,No,No,No,No,No,No,No,Excellent,Excellent,No,,Not at all,Lose weight,4-7,Moderate,MD,Other,No,,14
+263,Female,29,119,110,60,1-12 months ago,No,No,No,No,No,No,No,Excellent,Excellent,No,,Not at all,Lose weight,4-7,Moderate,Other Doctoral,MPH/MPH-MBA/MPH-MSN,No,,23
+339,Female,31,105,100,60,1-12 months ago,No,No,No,No,No,No,No,Good,Good,No,,Not at all,Maintain current weight,1-3,Moderate,MD,MHS/MS/ScM/MSE/MPP,Yes,21,29
+151,Male,32,165,155,60,2-5 years ago,Yes,No,No,No,No,No,No,Very good,Very Good,No,,Not at all,Lose weight,1-3,Moderate,MD,MPH/MPH-MBA/MPH-MSN,Yes,30,30
+417,Female,26,106,99,60,1-12 months ago,No,No,No,No,No,No,No,Very good,Very Good,No,,Not at all,Lose weight,1-3,Moderate,MD,MSPH,No,,24
+212,Female,33,140,120,61,1-2 years ago,No,No,No,Yes,No,No,No,Good,Good,No,,Not at all,Lose weight,,Low,MD,Other,Yes,30,33
+312,Female,27,130,130,61,1-12 months ago,Yes,No,No,Yes,Yes,No,No,Excellent,Excellent,Yes,16,Not at all,Lose weight,1-3,Moderate,Bachelors,MPH/MPH-MBA/MPH-MSN,No,,22
+25,Female,25,105,98,61,2-5 years ago,No,No,No,No,Yes,No,No,Excellent,Excellent,No,,Not at all,Maintain current weight,,Low,Bachelors,MPH/MPH-MBA/MPH-MSN,No,,23
+341,Female,30,119,121,61,1-12 months ago,No,No,No,No,No,No,No,Good,Good,No,,Not at all,Lose weight,8-13,Moderate,Other Doctoral,Other,No,,26
+360,Female,31,108,100,61,2-5 years ago,No,No,No,No,No,No,No,Good,Good,No,,Not at all,Maintain current weight,1-3,Low,MD,Other,Yes,27,30
+474,Female,23,137,117,61,1-12 months ago,No,No,No,No,No,No,No,Good,Good,No,,Not at all,Maintain current weight,1-3,Moderate,Bachelors,MSPH,No,,23
+16,Female,34,102,92,61,1-12 months ago,No,Yes,No,Yes,No,No,No,Excellent,Excellent,No,,Not at all,Maintain current weight,,Moderate,Bachelors,MPH/MPH-MBA/MPH-MSN,Yes,26,31
+209,Female,25,118,110,61,1-12 months ago,No,No,No,No,No,No,No,Excellent,Excellent,No,,Not at all,Lose weight,1-3,Moderate,Bachelors,MHS/MS/ScM/MSE/MPP,No,,21
+121,Female,23,101,100,61,5 or more years,No,No,No,No,No,No,No,Very good,Very Good,No,,Not at all,Lose weight,1-3,Low,Bachelors,MHS/MS/ScM/MSE/MPP,No,,18
+216,Female,21,145,150,61,1-2 years ago,No,No,No,No,No,No,No,Very good,Very Good,No,,Not at all,Lose weight,4-7,High,Bachelors,BA,No,,19
+214,Female,21,103,98,61,1-12 months ago,No,No,No,No,No,No,No,Very good,Very Good,No,,Not at all,Maintain current weight,4-7,Moderate,Other,BA,No,,19
+420,Female,24,114,110,61,1-2 years ago,No,No,No,No,No,No,No,Fair,Fair,No,,Not at all,Lose weight,1-3,Low,MD,MPH/MPH-MBA/MPH-MSN,No,,22
+220,Female,23,133,110,61,1-12 months ago,No,No,No,Yes,No,No,No,Very good,Very Good,No,,Not at all,Maintain current weight,8-13,High,Bachelors,MSPH,No,,20
+440,Female,28,116,116,61,1-2 years ago,No,No,No,No,No,No,No,Very good,Very Good,No,,Not at all,Maintain current weight,1-3,Moderate,Bachelors,PhD/DrPH/ScD,No,,22
+324,Female,25,103,99,61,1-12 months ago,No,No,No,No,No,No,No,Very good,Very Good,No,,Not at all,Maintain current weight,,None,MD,MPH/MPH-MBA/MPH-MSN,No,,23
+173,Female,31,140,115,61,1-12 months ago,No,No,No,Yes,No,No,No,Excellent,Excellent,No,,Not at all,Lose weight,1-3,Moderate,MD,Other,Yes,27,21
+426,Female,25,91,91,62,1-12 months ago,,Yes,,Yes,,,,Good,Good,No,,Not at all,Gain weight,1-3,Low,Masters,MPH/MPH-MBA/MPH-MSN,No,,25
+49,Female,26,110,110,62,1-12 months ago,No,No,No,No,No,No,No,Excellent,Excellent,No,,Not at all,Lose weight,1-3,Moderate,Bachelors,MHS/MS/ScM/MSE/MPP,No,,22
+404,Female,21,95,90,62,1-2 years ago,No,Yes,No,Yes,No,No,No,Excellent,Excellent,No,,Not at all,Maintain current weight,1-3,Moderate,Other,BA,No,,18
+248,Female,29,105,105,62,2-5 years ago,No,No,No,Yes,No,No,No,Very good,Very Good,No,,Not at all,Maintain current weight,1-3,Low,MD,MHS/MS/ScM/MSE/MPP,No,,28
+149,Female,27,120,120,62,1-2 years ago,,,,Yes,,,,Excellent,Excellent,No,,Not at all,Maintain current weight,4-7,Moderate,Masters,PhD/DrPH/ScD,No,,24
+298,Female,29,150,118,62,5 or more years,No,No,No,No,No,No,No,Fair,Fair,No,,Not at all,Lose weight,,None,Bachelors,MSPH,Yes,25,24
+413,Female,27,130,117,62,1-12 months ago,No,No,No,No,No,No,No,Very good,Very Good,Yes,24,Some days,Lose weight,1-3,Moderate,Bachelors,MPH/MPH-MBA/MPH-MSN,No,,25
+374,Female,25,135,115,62,1-12 months ago,No,No,No,No,No,No,No,Very good,Very Good,No,,Not at all,Lose weight,4-7,High,Bachelors,MSPH,No,,20
+23,Male,27,125,110,62,1-2 years ago,No,No,No,No,No,No,No,Excellent,Excellent,No,,Not at all,Gain weight,1-3,Low,MD,MPH/MPH-MBA/MPH-MSN,No,,25
+179,Female,29,107,110,62,2-5 years ago,No,,,Yes,Yes,No,No,Very good,Very Good,No,,Not at all,Maintain current weight,4-7,Moderate,Other Doctoral,MPH/MPH-MBA/MPH-MSN,No,,25
+60,Female,22,122,118,62,1-12 months ago,No,No,No,No,No,No,No,Very good,Very Good,No,,Not at all,Maintain current weight,1-3,Moderate,Bachelors,MSPH,No,,20
+449,Female,42,110,100,62,1-2 years ago,No,No,No,Yes,No,No,No,Good,Good,No,,Not at all,Maintain current weight,1-3,Low,MD,MPH/MPH-MBA/MPH-MSN,Yes,27,26
+398,Female,27,114,107,62,2-5 years ago,No,No,No,Yes,No,No,No,Excellent,Excellent,No,,Not at all,Lose weight,4-7,High,Bachelors,MPH/MPH-MBA/MPH-MSN,No,,18
+422,Female,22,116,112,62,2-5 years ago,No,No,No,No,No,No,No,Excellent,Excellent,No,,Not at all,Maintain current weight,1-3,Moderate,Bachelors,MPH/MPH-MBA/MPH-MSN,No,,20
+386,Female,22,99,99,62,2-5 years ago,No,No,No,Yes,No,No,No,Good,Good,No,,Not at all,Maintain current weight,1-3,Low,Bachelors,MHS/MS/ScM/MSE/MPP,No,,20
+196,Female,21,155,165,62,1-12 months ago,Yes,No,No,No,No,No,No,Very good,Very Good,No,,Not at all,Maintain current weight,1-3,Moderate,Bachelors,MHS/MS/ScM/MSE/MPP,No,,20
+229,Female,27,121,105,62,1-12 months ago,No,No,No,No,No,No,No,Good,Good,No,,Not at all,Maintain current weight,1-3,Low,Other Doctoral,MHS/MS/ScM/MSE/MPP,No,,24
+71,Female,28,154,132,62,1-2 years ago,No,No,No,Yes,Yes,No,No,Good,Good,No,,Not at all,Lose weight,4-7,Moderate,Masters,Post-doc,Yes,23,27
+97,Female,30,117,99,62,1-12 months ago,No,No,No,No,No,No,No,Excellent,Excellent,No,,Not at all,Maintain current weight,1-3,Low,MD,MPH/MPH-MBA/MPH-MSN,No,,28
+75,Female,21,128,125,62,1-12 months ago,No,No,No,No,No,No,No,Good,Good,No,,Not at all,Lose weight,1-3,Moderate,Bachelors,MSPH,No,,19
+174,Female,21,124,116,62,1-12 months ago,,,,Yes,,,,Very good,Very Good,No,,Not at all,Lose weight,1-3,Moderate,Bachelors,MSPH,No,,19
+41,Female,22,114,110,62,1-12 months ago,No,No,No,No,No,No,No,Very good,Very Good,No,,Not at all,Lose weight,1-3,Moderate,Bachelors,MHS/MS/ScM/MSE/MPP,No,,19
+72,Female,26,118,105,62,5 or more years,No,No,No,No,No,No,No,Excellent,Excellent,No,,Not at all,Lose weight,1-3,Moderate,MD,MPH/MPH-MBA/MPH-MSN,No,,25
+264,Female,35,132,125,62,1-2 years ago,,,,Yes,,,,Excellent,Excellent,No,,Not at all,Lose weight,1-3,Low,MD,MHS/MS/ScM/MSE/MPP,Yes,27,32
+410,Female,27,100,108,62,1-12 months ago,No,Yes,No,Yes,No,No,No,Very good,Very Good,No,,Not at all,Maintain current weight,4-7,Moderate,Masters,MSPH,No,,26
+470,Female,35,134,125,62,1-12 months ago,No,No,No,No,No,No,No,Very good,Very Good,No,,Not at all,Lose weight,8-13,Moderate,MD,MHS/MS/ScM/MSE/MPP,No,,23
+295,Female,24,130,110,62,1-12 months ago,No,No,No,No,No,No,No,Good,Good,No,,Not at all,Maintain current weight,1-3,Moderate,Bachelors,MHS/MS/ScM/MSE/MPP,No,,21
+182,Female,24,105,99,62,1-12 months ago,No,No,No,No,Yes,No,No,Very good,Very Good,No,,Not at all,Lose weight,1-3,Low,Bachelors,MHS/MS/ScM/MSE/MPP,No,,21
+403,Female,27,127,120,62,1-2 years ago,No,No,No,No,No,No,No,Very good,Very Good,No,,Not at all,Maintain current weight,1-3,High,Other Doctoral,MPH/MPH-MBA/MPH-MSN,Yes,24,25
+233,Female,24,135,128,63,1-2 years ago,No,No,No,No,No,No,No,Very good,Very Good,No,,Not at all,Maintain current weight,1-3,Low,Masters,MHS/MS/ScM/MSE/MPP,No,,22
+351,Female,22,145,140,63,1-2 years ago,No,No,No,No,No,No,No,Excellent,Excellent,No,,Not at all,Lose weight,1-3,Moderate,Bachelors,MSPH,No,,17
+304,Female,27,150,140,63,1-12 months ago,No,No,No,Yes,No,No,No,Very good,Very Good,No,,Not at all,Lose weight,4-7,Moderate,Bachelors,MHS/MS/ScM/MSE/MPP,Yes,24,26
+326,Female,23,130,105,63,1-12 months ago,No,No,No,No,No,No,No,Very good,Very Good,Yes,20,Not at all,Lose weight,1-3,Low,Bachelors,MHS/MS/ScM/MSE/MPP,No,,22
+258,Female,23,110,106,63,1-12 months ago,,,,Yes,,,,Fair,Fair,No,,Not at all,Lose weight,1-3,Low,Bachelors,MHS/MS/ScM/MSE/MPP,No,,18
+437,Female,26,123,110,63,1-12 months ago,,,,Yes,,,,Very good,Very Good,No,,Not at all,Lose weight,1-3,Moderate,Bachelors,MPH/MPH-MBA/MPH-MSN,No,,21
+372,Female,28,122,132,63,1-12 months ago,,,,Yes,Yes,,,Very good,Very Good,No,,Not at all,Maintain current weight,4-7,Moderate,Bachelors,PhD/DrPH/ScD,No,,20
+158,Female,22,115,125,63,1-12 months ago,No,No,No,No,No,No,No,Excellent,Excellent,No,,Not at all,Lose weight,4-7,Moderate,Bachelors,MHS/MS/ScM/MSE/MPP,No,,19
+290,Female,20,105,105,63,1-2 years ago,No,No,No,No,No,No,No,Very good,Very Good,No,,Not at all,Gain weight,,High,Bachelors,MHS/MS/ScM/MSE/MPP,No,,18
+447,Female,24,114,120,63,1-12 months ago,No,No,No,Yes,No,No,No,Very good,Very Good,No,,Not at all,Maintain current weight,1-3,Moderate,Bachelors,MPH/MPH-MBA/MPH-MSN,No,,20
+378,Female,21,116,110,63,1-2 years ago,No,No,No,No,No,No,No,Good,Good,No,,Not at all,Lose weight,4-7,Moderate,Bachelors,MSPH,No,,16
+376,Female,23,90,90,63,1-12 months ago,No,Yes,No,Yes,No,No,No,Fair,Fair,No,,Not at all,Maintain current weight,1-3,Low,Masters,MHS/MS/ScM/MSE/MPP,No,,20
+2,Female,31,115,120,63,1-12 months ago,,,,Yes,,,,Good,Good,No,,Not at all,Maintain current weight,1-3,Low,MD,MHS/MS/ScM/MSE/MPP,Yes,26,29
+223,Female,24,100,100,63,1-12 months ago,,Yes,Yes,Yes,Yes,,,Very good,Very Good,No,,Not at all,Maintain current weight,1-3,Moderate,Bachelors,MHS/MS/ScM/MSE/MPP,No,,21
+415,Female,22,117,110,63,1-2 years ago,No,No,No,No,No,No,No,Fair,Fair,No,,Not at all,Lose weight,1-3,Low,Bachelors,MHS/MS/ScM/MSE/MPP,No,,18
+427,Female,24,125,120,63,1-12 months ago,No,No,No,No,No,No,No,Very good,Very Good,No,,Not at all,Maintain current weight,1-3,Moderate,Bachelors,MPH/MPH-MBA/MPH-MSN,No,,18
+375,Female,23,96,84,63,5 or more years,No,No,No,No,No,No,No,Excellent,Excellent,No,,Not at all,Maintain current weight,1-3,Moderate,Bachelors,MHS/MS/ScM/MSE/MPP,No,,18
+125,Female,40,110,105.6,63,1-12 months ago,No,No,No,No,No,No,No,Fair,Fair,Yes,25,Some days,Maintain current weight,1-3,Low,MD,MHS/MS/ScM/MSE/MPP,Yes,34,36
+396,Female,28,141,140,63,1-2 years ago,No,No,No,Yes,No,No,No,Very good,Very Good,Yes,16,Not at all,Maintain current weight,4-7,Moderate,Bachelors,MSPH,No,,24
+333,Female,29,135,140,63,1-12 months ago,No,No,No,Yes,No,No,No,Very good,Very Good,No,,Not at all,Lose weight,4-7,Moderate,Bachelors,MPH/MPH-MBA/MPH-MSN,No,,18
+453,Female,29,139,147,63,1-2 years ago,No,No,No,No,No,No,No,Very good,Very Good,No,,Not at all,Maintain current weight,1-3,Moderate,Masters,PhD/DrPH/ScD,No,,21
+438,Female,26,150,128,63,1-12 months ago,No,No,No,No,No,No,No,Good,Good,No,,Not at all,Lose weight,1-3,Moderate,Bachelors,MPH/MPH-MBA/MPH-MSN,No,,22
+411,Female,30,148,152,63,1-2 years ago,No,No,No,Yes,Yes,No,No,Very good,Very Good,No,,Not at all,Maintain current weight,8-13,Moderate,Masters,MSPH,Yes,26,28
+373,Female,22,123,123,63,5 or more years,No,No,No,No,No,No,No,Very good,Very Good,No,,Not at all,Lose weight,4-7,Low,Masters,MHS/MS/ScM/MSE/MPP,No,,20
+458,Female,25,120,115,63,1-12 months ago,No,No,No,No,No,No,No,Good,Good,No,,Not at all,Maintain current weight,,None,Bachelors,MPH/MPH-MBA/MPH-MSN,No,,18
+363,Female,22,150,150,63,1-2 years ago,Yes,No,No,No,No,No,No,Very good,Very Good,No,,Not at all,Lose weight,1-3,Moderate,Bachelors,MHS/MS/ScM/MSE/MPP,No,,16
+342,Female,28,108,108,63,1-12 months ago,No,No,No,No,No,No,No,Excellent,Excellent,No,,Not at all,Maintain current weight,4-7,Moderate,Masters,PhD/DrPH/ScD,No,,25
+105,Female,24,110,88,63,1-12 months ago,No,No,No,No,No,No,No,Excellent,Excellent,No,,Not at all,Maintain current weight,1-3,Low,Bachelors,MHS/MS/ScM/MSE/MPP,No,,22
+188,Female,22,127,125,63,1-2 years ago,No,No,No,Yes,No,No,No,Excellent,Excellent,No,,Not at all,Lose weight,4-7,High,Bachelors,MHS/MS/ScM/MSE/MPP,No,,20
+382,Female,24,100,105,63,2-5 years ago,No,No,No,No,No,No,No,Good,Good,No,,Not at all,Maintain current weight,,Low,Masters,MHS/MS/ScM/MSE/MPP,No,,20
+126,Female,30,104,100,63,1-12 months ago,No,No,No,Yes,No,No,No,Very good,Very Good,No,,Not at all,Maintain current weight,1-3,Moderate,Masters,PhD/DrPH/ScD,No,,25
+10,Female,34,100,110,63,1-12 months ago,No,No,No,No,No,No,No,Good,Good,No,,Not at all,Lose weight,1-3,Low,Bachelors,MPH/MPH-MBA/MPH-MSN,No,,32
+310,Female,22,145,100,63,1-12 months ago,No,No,No,No,No,No,No,Good,Good,No,,Not at all,Lose weight,1-3,Low,Bachelors,PhD/DrPH/ScD,No,,20
+107,Female,27,146,120,63,1-12 months ago,No,No,No,No,No,No,No,Very good,Very Good,No,,Not at all,Lose weight,1-3,Moderate,Masters,BA,No,,25
+235,Female,31,135,130,63,1-12 months ago,No,No,No,Yes,No,No,No,Good,Good,No,,Not at all,Maintain current weight,8-13,Moderate,Masters,PhD/DrPH/ScD,Yes,30,18
+270,Female,28,92,96,63,1-12 months ago,No,No,No,No,No,No,No,Very good,Very Good,No,,Not at all,Maintain current weight,1-3,Low,Other Doctoral,MPH/MPH-MBA/MPH-MSN,Yes,25,25
+313,Female,36,116,99,63,1-12 months ago,No,No,No,No,No,No,No,Good,Good,No,,Not at all,Lose weight,1-3,Moderate,MD,MPH/MPH-MBA/MPH-MSN,No,,34
+432,Female,22,103,98,63,1-12 months ago,No,No,No,Yes,No,No,No,Very good,Very Good,No,,Not at all,Maintain current weight,1-3,Moderate,Bachelors,MSPH,No,,18
+249,Female,25,106,103,63,1-12 months ago,No,No,No,No,No,No,No,Good,Good,No,,Not at all,Maintain current weight,,Low,Bachelors,MSPH,No,,23
+418,Female,23,111,105,63,1-12 months ago,No,No,No,No,No,No,No,Very good,Very Good,No,,Not at all,Lose weight,4-7,Moderate,Bachelors,MHS/MS/ScM/MSE/MPP,No,,19
+296,Female,23,165,155,63,1-12 months ago,Yes,No,No,No,No,No,No,Very good,Very Good,No,,Not at all,Lose weight,,Low,Bachelors,MSPH,No,,21
+207,Female,27,105,85,63,1-12 months ago,No,No,No,No,No,No,No,Good,Good,No,,Not at all,Lose weight,,Low,Bachelors,MPH/MPH-MBA/MPH-MSN,No,,
+42,Male,26,187,195,63,1-2 years ago,No,No,No,No,No,No,No,Fair,Fair,No,,Not at all,Lose weight,1-3,Low,Bachelors,MPH/MPH-MBA/MPH-MSN,No,,24
+14,Female,29,120,110,63,2-5 years ago,No,No,No,No,No,No,No,Excellent,Excellent,No,,Not at all,Lose weight,1-3,Moderate,MD,MPH/MPH-MBA/MPH-MSN,No,,26
+461,Female,26,122,125,63,1-12 months ago,No,No,No,No,No,No,No,Very good,Very Good,No,,Not at all,Maintain current weight,1-3,Low,Masters,MHS/MS/ScM/MSE/MPP,No,,21
+367,Female,26,126,120,63,1-12 months ago,No,No,No,No,No,No,No,Good,Good,No,,Not at all,Maintain current weight,1-3,Moderate,Bachelors,MPH/MPH-MBA/MPH-MSN,No,,25
+348,Female,23,122,130,63,1-12 months ago,No,No,No,No,No,No,No,Excellent,Excellent,No,,Not at all,Gain weight,1-3,Moderate,Bachelors,MHS/MS/ScM/MSE/MPP,No,,21
+11,Female,38,114,114,63,1-12 months ago,No,Yes,No,Yes,Yes,No,No,Very good,Very Good,No,,Not at all,Lose weight,1-3,High,MD,MPH/MPH-MBA/MPH-MSN,No,,26
+293,Female,22,105,119,63,1-12 months ago,No,No,Yes,No,No,No,No,Very good,Very Good,No,,Not at all,Lose weight,1-3,Low,Bachelors,MHS/MS/ScM/MSE/MPP,No,,21
+253,Female,33,135,98,64,1-12 months ago,No,No,No,No,No,No,No,Very good,Very Good,No,,Not at all,Lose weight,1-3,Low,Masters,PhD/DrPH/ScD,Yes,29,28
+466,Male,28,108,,64,5 or more years,No,No,No,No,No,No,No,Excellent,Excellent,No,,Not at all,Gain weight,1-3,Moderate,MD,MPH/MPH-MBA/MPH-MSN,No,,27
+246,Female,24,114,108,64,1-12 months ago,,,,Yes,,,,Excellent,Excellent,No,,Not at all,Maintain current weight,1-3,High,Masters,MPH/MPH-MBA/MPH-MSN,No,,22
+81,Female,34,108,108,64,1-12 months ago,No,Yes,Yes,Yes,Yes,No,No,Excellent,Excellent,No,,Not at all,Gain weight,1-3,Low,MD,MPH/MPH-MBA/MPH-MSN,Yes,28,33
+350,Female,22,110,105,64,1-12 months ago,No,No,No,Yes,No,No,No,Excellent,Excellent,No,,Not at all,Maintain current weight,4-7,Moderate,Bachelors,MHS/MS/ScM/MSE/MPP,No,,20
+366,Female,24,140,135,64,1-12 months ago,No,No,No,No,No,No,No,Excellent,Excellent,No,,Not at all,Lose weight,8-13,Moderate,Bachelors,MPH/MPH-MBA/MPH-MSN,No,,23
+47,Female,25,140,120,64,1-12 months ago,No,No,No,No,No,No,No,Very good,Very Good,No,,Not at all,Lose weight,1-3,Moderate,Bachelors,MPH/MPH-MBA/MPH-MSN,No,,25
+66,Female,38,130,110,64,1-12 months ago,No,No,No,No,No,No,No,Excellent,Excellent,Yes,21,Not at all,Maintain current weight,4-7,High,MD,Other,Yes,28,25
+142,Female,23,116,105,64,1-12 months ago,No,No,No,No,No,No,No,Excellent,Excellent,No,,Not at all,Lose weight,4-7,Moderate,Bachelors,MHS/MS/ScM/MSE/MPP,No,,21
+203,Female,24,120,110,64,1-12 months ago,No,No,No,No,No,No,No,Good,Good,No,,Not at all,Lose weight,1-3,Moderate,Bachelors,MSPH,No,,23
+446,Female,31,145,125,64,1-12 months ago,No,No,No,No,No,No,No,Very good,Very Good,No,,Not at all,Lose weight,,None,Other Doctoral,MHS/MS/ScM/MSE/MPP,Yes,26,16
+305,Female,31,118,112,64,1-12 months ago,No,No,No,No,No,No,No,Very good,Very Good,No,,Not at all,Maintain current weight,8-13,Moderate,Masters,PhD/DrPH/ScD,No,,17
+119,Female,21,145,160,64,2-5 years ago,No,Yes,No,No,No,No,No,Very good,Very Good,Yes,20,Not at all,Maintain current weight,4-7,Moderate,Bachelors,MHS/MS/ScM/MSE/MPP,No,,20
+414,Female,35,110,125,64,1-2 years ago,No,No,No,No,Yes,No,No,Good,Good,No,,Not at all,Maintain current weight,4-7,Moderate,Masters,PhD/DrPH/ScD,No,,33
+112,Female,24,125,115,64,1-2 years ago,No,No,No,,No,No,No,Excellent,Excellent,Yes,16,Not at all,Lose weight,,Low,Bachelors,MPH/MPH-MBA/MPH-MSN,No,,19
+177,Female,24,155,128,64,1-12 months ago,No,No,No,No,No,Yes,No,Good,Good,No,,Not at all,Lose weight,,Low,Bachelors,MSPH,No,,19
+26,Female,31,132,99,64,1-12 months ago,No,No,No,Yes,Yes,No,No,Good,Good,No,,Not at all,Lose weight,1-3,Low,MD,MPH/MPH-MBA/MPH-MSN,No,,16
+32,Female,31,123,150,64,1-12 months ago,No,No,No,No,No,No,No,Good,Good,No,,Not at all,Maintain current weight,1-3,Low,Masters,PhD/DrPH/ScD,No,,29
+345,Female,31,121,112,64,1-2 years ago,No,No,No,Yes,No,No,No,Very good,Very Good,No,,Not at all,Maintain current weight,4-7,Moderate,MD,MHS/MS/ScM/MSE/MPP,Yes,28,30
+425,Female,22,115,109,64,1-12 months ago,No,No,No,No,No,No,No,Very good,Very Good,No,,Not at all,Maintain current weight,8-13,High,Bachelors,MHS/MS/ScM/MSE/MPP,No,,20
+319,Female,27,125,120,64,5 or more years,No,No,No,Yes,No,No,No,Good,Good,No,,Not at all,Lose weight,4-7,Moderate,Other Doctoral,MPH/MPH-MBA/MPH-MSN,No,,22
+226,Female,27,125,125,64,1-12 months ago,No,No,No,No,No,No,No,Fair,Fair,No,,Not at all,Lose weight,4-7,Moderate,Masters,PhD/DrPH/ScD,Yes,24,22
+459,Female,38,125,116,64,1-2 years ago,No,No,No,No,No,No,No,Very good,Very Good,No,,Not at all,Maintain current weight,4-7,Moderate,Other,Other,Yes,23,18
+76,Female,24,150,144,64,1-12 months ago,No,No,No,No,Yes,No,No,Very good,Very Good,No,,Not at all,Lose weight,1-3,Moderate,Bachelors,MHS/MS/ScM/MSE/MPP,No,,20
+80,Female,26,130,125,64,1-12 months ago,Yes,Yes,No,Yes,No,No,No,Good,Good,No,,Not at all,Lose weight,1-3,Low,Bachelors,MPH/MPH-MBA/MPH-MSN,No,,24
+431,Female,22,130,130,64,1-12 months ago,No,Yes,No,Yes,Yes,No,No,Very good,Very Good,No,,Not at all,Lose weight,4-7,High,Bachelors,MSPH,No,,18
+118,Female,42,132,121,64,1-2 years ago,No,No,No,Yes,No,No,No,Excellent,Excellent,No,,Not at all,Maintain current weight,1-3,Moderate,Masters,MPH/MPH-MBA/MPH-MSN,Yes,25,40
+234,Female,31,212,170,64,5 or more years,No,No,No,No,No,No,No,Fair,Fair,No,,Not at all,Lose weight,,None,Bachelors,MHS/MS/ScM/MSE/MPP,No,,29
+364,Female,30,132,118,64,1-12 months ago,No,No,No,Yes,No,No,No,Excellent,Excellent,No,,Not at all,Lose weight,4-7,Moderate,MD,MPH/MPH-MBA/MPH-MSN,Yes,28,30
+328,Female,23,110,136,64,1-12 months ago,Yes,No,No,No,No,No,No,Good,Good,No,,Not at all,Maintain current weight,1-3,Low,Bachelors,MHS/MS/ScM/MSE/MPP,No,,21
+192,Female,26,175,160,64,1-2 years ago,No,No,No,No,No,No,No,Good,Good,No,,Not at all,Lose weight,4-7,Moderate,Bachelors,MPH/MPH-MBA/MPH-MSN,No,,19
+435,Female,22,82,100,64,1-12 months ago,,,,,Yes,,,Very good,Very Good,No,,Not at all,Gain weight,1-3,Moderate,Bachelors,MHS/MS/ScM/MSE/MPP,No,,20
+334,Female,24,120,110,64,2-5 years ago,No,No,No,Yes,No,No,No,Excellent,Excellent,No,,Not at all,Maintain current weight,4-7,Moderate,Bachelors,MHS/MS/ScM/MSE/MPP,No,,22
+21,Female,25,125,130,64,1-12 months ago,No,No,No,No,No,No,No,Very good,Very Good,No,,Not at all,Lose weight,1-3,Moderate,Masters,PhD/DrPH/ScD,No,,25
+95,Female,29,112,121,64,1-12 months ago,No,No,No,No,No,No,No,Very good,Very Good,No,,Not at all,Maintain current weight,1-3,Moderate,Masters,MPH/MPH-MBA/MPH-MSN,Yes,27,28
+87,Female,21,125,120,64,2-5 years ago,No,No,No,No,No,No,No,Excellent,Excellent,No,,Not at all,Lose weight,4-7,Moderate,Other,BA,No,,19
+279,Female,21,120,119,64,1-12 months ago,No,No,No,Yes,Yes,No,No,Very good,Very Good,No,,Not at all,Lose weight,1-3,High,Bachelors,MHS/MS/ScM/MSE/MPP,No,,18
+129,Female,25,130,120,64,1-2 years ago,,,Yes,Yes,,,,Fair,Fair,No,,Not at all,Lose weight,,None,Masters,PhD/DrPH/ScD,No,,19
+282,Female,24,105,105,64,1-12 months ago,No,No,No,No,No,No,No,Good,Good,No,,Not at all,Maintain current weight,1-3,Low,Masters,MHS/MS/ScM/MSE/MPP,No,,21
+343,Female,21,120,124,64,1-2 years ago,No,No,No,No,No,No,No,Good,Good,No,,Not at all,Maintain current weight,1-3,Moderate,Bachelors,MHS/MS/ScM/MSE/MPP,No,,18
+228,Female,22,140,112,64,1-12 months ago,No,No,No,No,No,No,No,Very good,Very Good,No,,Not at all,Lose weight,8-13,Moderate,Bachelors,MSPH,No,,20
+45,Female,23,130,125,64,1-12 months ago,Yes,No,No,No,No,No,No,Excellent,Excellent,No,,Not at all,Maintain current weight,4-7,High,Bachelors,MSPH,No,,20
+301,Female,25,135,125,64,1-2 years ago,No,No,No,Yes,No,No,No,Very good,Very Good,No,,Not at all,Lose weight,,Low,Bachelors,MHS/MS/ScM/MSE/MPP,No,,19
+165,Female,23,123,123,64,1-12 months ago,No,No,No,No,No,No,No,Excellent,Excellent,No,,Not at all,Lose weight,8-13,High,Bachelors,MSPH,No,,22
+445,Female,21,140,135,64,1-12 months ago,No,No,No,No,No,No,No,Excellent,Excellent,No,,Not at all,Lose weight,1-3,Moderate,Bachelors,MHS/MS/ScM/MSE/MPP,No,,20
+380,Female,27,130,130,64,2-5 years ago,No,No,No,No,No,No,No,Excellent,Excellent,No,,Not at all,Maintain current weight,8-13,High,Bachelors,MPH/MPH-MBA/MPH-MSN,No,,21
+35,Female,35,120,115,64,1-12 months ago,No,No,No,Yes,Yes,No,No,Good,Good,Yes,18,Not at all,Maintain current weight,,Low,Other Doctoral,MPH/MPH-MBA/MPH-MSN,Yes,35,35
+221,Female,22,125,115,64,1-12 months ago,No,No,No,Yes,Yes,No,No,Very good,Very Good,No,,Not at all,Lose weight,4-7,Moderate,Bachelors,MSPH,No,,20
+452,Female,29,115,115,64,1-12 months ago,,,,Yes,,,,Very good,Very Good,No,,Not at all,Maintain current weight,1-3,Moderate,MD,PhD/DrPH/ScD,Yes,23,29
+409,Female,25,145,120,64,1-12 months ago,No,No,No,No,No,No,No,Excellent,Excellent,No,,Not at all,Lose weight,1-3,Moderate,Bachelors,MPH/MPH-MBA/MPH-MSN,No,,19
+454,Female,37,165,140,64,1-12 months ago,No,No,No,No,No,No,No,Very good,Very Good,No,,Not at all,Lose weight,4-7,Moderate,Other,MPH/MPH-MBA/MPH-MSN,Yes,29,20
+323,Female,46,165,120,64,1-12 months ago,No,No,No,No,No,No,No,Good,Good,No,,Not at all,Lose weight,1-3,Low,Masters,PhD/DrPH/ScD,Yes,25,45
+172,Female,22,110,120,64,1-12 months ago,No,No,No,No,No,No,No,Excellent,Excellent,No,,Not at all,Lose weight,4-7,Moderate,Bachelors,MSPH,No,,20
+236,Female,25,121,117,64,1-2 years ago,No,No,No,No,No,No,No,Very good,Very Good,No,,Not at all,Maintain current weight,1-3,High,Bachelors,MPH/MPH-MBA/MPH-MSN,No,,23
+34,Female,25,110,106,64,1-12 months ago,No,No,No,No,No,No,No,Good,Good,No,,Not at all,Maintain current weight,4-7,Moderate,Bachelors,PhD/DrPH/ScD,No,,21
+157,Female,26,170,150,64,1-12 months ago,Yes,No,No,No,No,No,No,Very good,Very Good,No,,Not at all,Lose weight,8-13,Low,Masters,PhD/DrPH/ScD,No,,24
+346,Female,23,125,118,64,1-12 months ago,No,Yes,Yes,Yes,Yes,No,No,Excellent,Excellent,No,,Not at all,Maintain current weight,1-3,High,Bachelors,MSPH,No,,19
+430,Female,35,150,130,64,2-5 years ago,No,No,No,No,No,No,No,Very good,Very Good,No,,Not at all,Lose weight,1-3,Moderate,Other Doctoral,MPH/MPH-MBA/MPH-MSN,Yes,25,20
+381,Female,34,135,132,64,1-2 years ago,,Yes,Yes,,,,,Excellent,Excellent,No,,Not at all,Lose weight,1-3,Moderate,MD,Post-doc,Yes,24,19
+167,Female,22,140,125,65,1-12 months ago,No,No,No,Yes,No,No,No,Very good,Very Good,No,,Not at all,Lose weight,1-3,High,Bachelors,MSPH,No,,20
+243,Female,25,117,111,65,1-2 years ago,No,No,No,No,No,No,No,Good,Good,No,,Not at all,Maintain current weight,,Low,Bachelors,PhD/DrPH/ScD,No,,18
+213,Female,29,173,130,65,5 or more years,No,No,No,No,No,No,No,Very good,Very Good,No,,Not at all,Lose weight,1-3,Moderate,MD,MPH/MPH-MBA/MPH-MSN,Yes,27,24
+309,Female,21,145,145,65,1-12 months ago,No,No,No,No,No,No,No,Excellent,Excellent,No,,Not at all,Maintain current weight,8-13,High,Bachelors,MHS/MS/ScM/MSE/MPP,No,,20
+340,Female,21,130,117,65,1-12 months ago,Yes,Yes,,Yes,,,,Good,Good,No,,Not at all,Lose weight,8-13,Moderate,Bachelors,MHS/MS/ScM/MSE/MPP,No,,20
+134,Female,25,170,145,65,1-12 months ago,No,No,No,No,No,No,No,Very good,Very Good,No,,Not at all,Lose weight,1-3,Moderate,Bachelors,MHS/MS/ScM/MSE/MPP,No,,17
+27,Female,22,132,143,65,1-12 months ago,No,No,No,No,No,No,No,Very good,Very Good,No,,Not at all,Lose weight,4-7,Moderate,Bachelors,MHS/MS/ScM/MSE/MPP,No,,22
+433,Female,22,115,115,65,1-2 years ago,No,No,No,No,No,No,No,Excellent,Excellent,No,,Not at all,Maintain current weight,4-7,Moderate,Bachelors,MSPH,No,,18
+79,Female,22,121,106,65,1-12 months ago,No,No,No,No,No,No,No,Very good,Very Good,No,,Not at all,Lose weight,1-3,Moderate,Masters,MHS/MS/ScM/MSE/MPP,No,,20
+391,Female,25,125,115,65,1-12 months ago,No,No,No,No,No,No,No,Very good,Very Good,No,,Not at all,Maintain current weight,1-3,Moderate,Bachelors,MPH/MPH-MBA/MPH-MSN,No,,23
+465,Female,25,135,145,65,1-12 months ago,No,No,No,Yes,No,No,No,Very good,Very Good,No,,Not at all,Lose weight,8-13,Moderate,Bachelors,MPH/MPH-MBA/MPH-MSN,No,,23
+153,Female,25,139,125,65,1-2 years ago,No,No,No,No,No,No,No,Very good,Very Good,No,,Not at all,Lose weight,1-3,Moderate,Bachelors,MPH/MPH-MBA/MPH-MSN,No,,21
+275,Female,23,110,110,65,1-12 months ago,No,No,No,No,No,No,No,Good,Good,No,,Not at all,Maintain current weight,,Low,Bachelors,MHS/MS/ScM/MSE/MPP,No,,21
+286,Female,23,112,118,65,1-12 months ago,No,No,No,No,No,No,No,Very good,Very Good,No,,Not at all,Maintain current weight,,None,Bachelors,MHS/MS/ScM/MSE/MPP,No,,20
+244,Female,25,110,100,65,1-2 years ago,No,No,No,No,No,No,No,Excellent,Excellent,No,,Not at all,Gain weight,4-7,Moderate,Bachelors,MPH/MPH-MBA/MPH-MSN,No,,19
+43,Male,31,165,110,65,1-12 months ago,No,No,No,Yes,No,No,No,Good,Good,No,,Some days,Lose weight,1-3,Moderate,Masters,PhD/DrPH/ScD,No,,16
+116,Female,33,110,110,65,1-12 months ago,No,No,No,No,No,No,No,Good,Good,No,,Not at all,Maintain current weight,1-3,Low,Masters,MHS/MS/ScM/MSE/MPP,No,,33
+443,Female,22,210,200,65,1-12 months ago,No,No,No,Yes,No,No,No,Very good,Very Good,No,,Not at all,Lose weight,4-7,Moderate,Bachelors,MHS/MS/ScM/MSE/MPP,No,,21
+169,Female,31,140,110,65,5 or more years,,No,,,,,,Excellent,Excellent,No,,Not at all,Maintain current weight,,None,Masters,MPH/MPH-MBA/MPH-MSN,Yes,26,25
+146,Female,40,110,88,65,1-12 months ago,No,No,No,No,No,No,No,Good,Good,No,,Not at all,Lose weight,1-3,Low,MD,MPH/MPH-MBA/MPH-MSN,Yes,37,27
+267,Female,23,135,120,65,1-12 months ago,No,No,Yes,No,No,No,No,Very good,Very Good,No,,Not at all,Maintain current weight,1-3,Moderate,Masters,PhD/DrPH/ScD,No,,19
+291,Female,31,140,125,65,2-5 years ago,No,No,No,No,No,No,No,Very good,Very Good,No,,Not at all,Lose weight,4-7,Moderate,Masters,PhD/DrPH/ScD,No,,21
+240,Female,26,135,135,65,2-5 years ago,No,No,No,No,No,No,No,Excellent,Excellent,No,,Not at all,Lose weight,4-7,Moderate,Bachelors,MHS/MS/ScM/MSE/MPP,No,,20
+115,Female,28,133,138,65,1-12 months ago,No,No,No,No,No,No,No,Fair,Fair,No,,Not at all,Lose weight,1-3,Low,MD,MPH/MPH-MBA/MPH-MSN,No,,26
+106,Female,34,185,129,65,1-12 months ago,No,No,No,No,No,No,No,Very good,Very Good,No,,Not at all,Lose weight,1-3,Low,MD,MPH/MPH-MBA/MPH-MSN,Yes,26,32
+255,Female,25,140,135,65,1-2 years ago,No,No,No,No,No,No,No,Very good,Very Good,Yes,17,Not at all,Lose weight,1-3,Moderate,Bachelors,MPH/MPH-MBA/MPH-MSN,No,,18
+308,Female,24,114,140,65,1-12 months ago,No,No,No,Yes,No,No,No,Very good,Very Good,No,,Not at all,Gain weight,4-7,Low,Bachelors,MSPH,No,,18
+171,Female,29,164,146,65,1-2 years ago,No,No,No,No,No,No,No,Very good,Very Good,No,,Not at all,Lose weight,1-3,Low,Bachelors,MPH/MPH-MBA/MPH-MSN,No,,23
+117,Female,23,132,143,65,2-5 years ago,No,No,No,Yes,No,No,No,Very good,Very Good,No,,Not at all,Lose weight,1-3,Low,Bachelors,MHS/MS/ScM/MSE/MPP,No,,21
+448,Female,22,122,120,65,1-12 months ago,No,No,No,No,No,No,No,Very good,Very Good,No,,Not at all,Maintain current weight,4-7,High,Bachelors,MSPH,No,,21
+347,Female,24,155,135,65,1-12 months ago,No,No,No,No,No,No,No,Very good,Very Good,No,,Not at all,Maintain current weight,1-3,Moderate,Other Doctoral,MPH/MPH-MBA/MPH-MSN,No,,18
+358,Female,22,198,198,65,1-12 months ago,No,No,No,No,No,No,No,Good,Good,No,,Not at all,Gain weight,1-3,Low,Bachelors,MHS/MS/ScM/MSE/MPP,No,,20
+428,Male,30,134,125,65,1-2 years ago,No,No,No,No,No,Yes,No,Very good,Very Good,Yes,22,Not at all,Lose weight,4-7,Moderate,Bachelors,MPH/MPH-MBA/MPH-MSN,Yes,30,26
+156,Female,27,130,125,65,1-12 months ago,No,Yes,No,No,No,No,No,Excellent,Excellent,Yes,18,Not at all,Lose weight,4-7,Moderate,Bachelors,MSPH,No,,25
+176,Female,25,114,114,65,1-12 months ago,No,No,No,Yes,No,No,No,Good,Good,No,,Not at all,Lose weight,1-3,Low,MD,MPH/MPH-MBA/MPH-MSN,No,,23
+289,Female,23,113,110,65,1-12 months ago,No,Yes,Yes,Yes,No,No,No,Good,Good,No,,Not at all,Maintain current weight,,Low,MD,MHS/MS/ScM/MSE/MPP,No,,18
+316,Female,26,170,150,65,1-12 months ago,No,No,No,No,No,No,No,Good,Good,No,,Not at all,Lose weight,4-7,Moderate,Bachelors,MHS/MS/ScM/MSE/MPP,No,,24
+180,Female,26,117,115,66,1-12 months ago,No,No,No,No,No,No,No,Very good,Very Good,No,,Not at all,Maintain current weight,1-3,Moderate,Bachelors,MSPH,No,,19
+123,Male,40,140,100,66,5 or more years,No,No,No,No,No,Yes,No,Good,Good,No,,Not at all,Lose weight,,Low,MD,MPH/MPH-MBA/MPH-MSN,Yes,26,39
+321,Female,20,120,120,66,1-2 years ago,No,No,No,No,No,No,No,Very good,Very Good,No,,Not at all,Maintain current weight,4-7,Moderate,Bachelors,BA,No,,18
+383,Female,25,157,145,66,1-12 months ago,No,Yes,No,Yes,No,No,No,Very good,Very Good,No,,Not at all,Maintain current weight,4-7,Moderate,Bachelors,MHS/MS/ScM/MSE/MPP,No,,23
+388,Female,27,125,125,66,1-2 years ago,Yes,No,No,Yes,No,No,No,Very good,Very Good,No,,Not at all,Maintain current weight,4-7,Moderate,Bachelors,MPH/MPH-MBA/MPH-MSN,No,,18
+472,Female,27,125,140,66,1-2 years ago,No,No,No,No,No,No,No,Very good,Very Good,No,,Not at all,Maintain current weight,4-7,Moderate,Masters,PhD/DrPH/ScD,No,,24
+327,Female,23,125,130,66,1-12 months ago,No,No,No,Yes,No,No,No,Very good,Very Good,No,,Not at all,Maintain current weight,,Low,Bachelors,PhD/DrPH/ScD,No,,16
+114,Male,23,150,150,66,2-5 years ago,No,No,No,No,No,No,Yes,Fair,Fair,No,,Not at all,Lose weight,4-7,Moderate,Bachelors,MHS/MS/ScM/MSE/MPP,No,,23
+257,Female,26,130,120,66,1-12 months ago,No,No,No,No,No,No,No,Good,Good,No,,Not at all,Lose weight,,Low,Bachelors,MHS/MS/ScM/MSE/MPP,Yes,26,22
+92,Female,30,100,100,66,1-12 months ago,No,No,No,No,No,No,No,Very good,Very Good,No,,Not at all,Maintain current weight,1-3,Low,MD,MPH/MPH-MBA/MPH-MSN,Yes,30,29
+288,Female,31,136,120,66,1-12 months ago,No,No,No,Yes,No,No,No,Very good,Very Good,No,,Not at all,Maintain current weight,1-3,Moderate,Masters,PhD/DrPH/ScD,Yes,25,23
+124,Female,29,126,132,66,1-2 years ago,No,No,No,No,No,No,No,Very good,Very Good,No,,Not at all,Maintain current weight,1-3,Moderate,Masters,MHS/MS/ScM/MSE/MPP,Yes,29,25
+140,Female,24,125,120,66,1-12 months ago,No,No,No,Yes,No,No,No,Very good,Very Good,No,,Not at all,Maintain current weight,1-3,Low,Bachelors,MHS/MS/ScM/MSE/MPP,No,,23
+379,Female,24,132,141,66,1-12 months ago,No,No,No,No,No,No,No,Good,Good,No,,Not at all,Lose weight,4-7,Moderate,Bachelors,MSPH,No,,22
+325,Female,26,128,113,66,1-12 months ago,No,No,No,Yes,No,No,No,Excellent,Excellent,No,,Not at all,Lose weight,1-3,Moderate,Bachelors,MPH/MPH-MBA/MPH-MSN,No,,22
+419,Female,29,127,105,66,1-12 months ago,,,,Yes,Yes,,,Very good,Very Good,No,,Not at all,Lose weight,,None,MD,MPH/MPH-MBA/MPH-MSN,Yes,28,21
+357,Female,50,136,115,66,1-12 months ago,No,Yes,No,No,No,No,No,Good,Good,No,,Not at all,Lose weight,1-3,Low,Masters,MHS/MS/ScM/MSE/MPP,Yes,24,38
+442,Female,26,135,135,66,1-12 months ago,No,No,No,Yes,Yes,No,No,Very good,Very Good,No,,Not at all,Maintain current weight,4-7,Moderate,Bachelors,MPH/MPH-MBA/MPH-MSN,No,,16
+269,Female,22,110,110,66,1-2 years ago,Yes,Yes,No,No,Yes,No,No,Very good,Very Good,No,,Not at all,Maintain current weight,1-3,Low,Bachelors,PhD/DrPH/ScD,No,,19
+451,Female,31,145,110,66,1-12 months ago,No,No,No,No,No,No,No,Very good,Very Good,No,,Not at all,Lose weight,1-3,Moderate,MD,MPH/MPH-MBA/MPH-MSN,Yes,25,18
+467,Male,28,119,99,66,5 or more years,No,No,No,No,No,No,No,Very good,Very Good,No,,Not at all,Gain weight,4-7,Moderate,MD,MPH/MPH-MBA/MPH-MSN,No,,25
+15,Female,23,193,170,66,1-12 months ago,No,No,No,No,No,No,No,Fair,Fair,No,,Some days,Lose weight,1-3,Low,Bachelors,MHS/MS/ScM/MSE/MPP,No,,18
+147,Female,32,132,125.4,66,1-12 months ago,No,Yes,No,Yes,Yes,No,No,Excellent,Excellent,Yes,21,Everyday,Lose weight,4-7,High,MD,MPH/MPH-MBA/MPH-MSN,No,,28
+392,Female,27,150,150,66,1-12 months ago,No,No,No,No,No,No,No,Very good,Very Good,Yes,18,Some days,Lose weight,8-13,Moderate,Masters,PhD/DrPH/ScD,No,,18
+259,Female,24,140,130,66,2-5 years ago,No,No,No,No,No,No,No,Very good,Very Good,No,,Not at all,Lose weight,1-3,Moderate,Bachelors,MPH/MPH-MBA/MPH-MSN,No,,22
+318,Female,25,120,120,66,1-2 years ago,No,No,No,Yes,No,No,No,Very good,Very Good,No,,Not at all,Maintain current weight,1-3,Low,Bachelors,MHS/MS/ScM/MSE/MPP,No,,25
+37,Female,23,100,97,66,1-12 months ago,,Yes,,Yes,Yes,,,Very good,Very Good,No,,Not at all,Gain weight,1-3,High,Bachelors,MHS/MS/ScM/MSE/MPP,No,,17
+311,Female,33,115,101,66,1-12 months ago,No,No,No,No,No,No,No,Very good,Very Good,No,,Not at all,Maintain current weight,1-3,Low,Masters,PhD/DrPH/ScD,No,,21
+352,Female,23,117,125,66,1-2 years ago,No,No,No,No,No,No,No,Very good,Very Good,No,,Not at all,Maintain current weight,1-3,Low,Masters,MHS/MS/ScM/MSE/MPP,No,,19
+365,Male,33,23,23.2,66,1-12 months ago,No,No,No,No,No,No,No,Fair,Fair,No,,Not at all,Maintain current weight,,None,Other Doctoral,MPH/MPH-MBA/MPH-MSN,Yes,26,30
+225,Male,24,135,140,66,1-2 years ago,No,No,No,Yes,No,No,No,Very good,Very Good,No,,Not at all,Maintain current weight,14+,High,Bachelors,MHS/MS/ScM/MSE/MPP,No,,17
+211,Female,26,148,140,66,1-12 months ago,Yes,No,No,No,No,No,No,Very good,Very Good,No,,Not at all,Maintain current weight,4-7,High,Bachelors,MHS/MS/ScM/MSE/MPP,No,,20
+64,Female,26,127,118,66,1-2 years ago,No,No,No,No,No,No,No,Excellent,Excellent,No,,Not at all,Lose weight,4-7,High,Masters,MPH/MPH-MBA/MPH-MSN,No,,24
+191,Male,25,165,140,66,1-12 months ago,No,No,No,No,No,No,No,Excellent,Excellent,No,,Not at all,Maintain current weight,8-13,High,Bachelors,MPH/MPH-MBA/MPH-MSN,No,,17
+407,Female,22,124,137,66,1-12 months ago,No,No,No,No,No,No,No,Fair,Fair,No,,Not at all,Maintain current weight,1-3,Low,Bachelors,MSPH,No,,20
+46,Female,27,225,180,66,1-12 months ago,No,No,No,No,No,No,No,Good,Good,Yes,13,Some days,Maintain current weight,,None,Masters,PhD/DrPH/ScD,No,,25
+368,Female,25,138,125,66,1-12 months ago,No,No,No,No,No,No,No,Very good,Very Good,No,,Not at all,Lose weight,4-7,High,Bachelors,MPH/MPH-MBA/MPH-MSN,No,,25
+59,Female,22,145,130,66,1-2 years ago,No,No,No,No,No,No,No,Very good,Very Good,No,,Not at all,Lose weight,4-7,Moderate,Bachelors,MSPH,No,,21
+99,Female,29,139,110,66,1-2 years ago,No,No,No,No,No,No,No,Good,Good,No,,Not at all,Lose weight,,Low,MD,MPH/MPH-MBA/MPH-MSN,No,,25
+187,Female,22,118,105,66,2-5 years ago,No,No,No,No,No,No,No,Excellent,Excellent,No,,Not at all,Maintain current weight,4-7,Moderate,Other,Other,No,,22
+57,Female,24,127,120,66,1-12 months ago,No,No,No,No,No,No,No,Very good,Very Good,No,,Not at all,Maintain current weight,1-3,Moderate,Bachelors,MPH/MPH-MBA/MPH-MSN,No,,20
+155,Female,34,121,110,66,1-12 months ago,No,No,No,No,No,No,No,Good,Good,No,,Not at all,Lose weight,1-3,Low,Bachelors,MPH/MPH-MBA/MPH-MSN,No,,32
+139,Female,27,145,140,66,1-12 months ago,No,No,No,Yes,No,No,No,Excellent,Excellent,No,,Not at all,Maintain current weight,1-3,Moderate,Bachelors,MPH/MPH-MBA/MPH-MSN,No,,22
+38,Female,23,120,115,66,1-2 years ago,No,No,No,Yes,No,No,No,Excellent,Excellent,No,,Not at all,Maintain current weight,8-13,Moderate,Bachelors,MHS/MS/ScM/MSE/MPP,No,,15
+450,Female,28,132,119.05,66,5 or more years,No,No,No,No,No,No,No,Excellent,Excellent,No,,Not at all,Lose weight,,Moderate,MD,MPH/MPH-MBA/MPH-MSN,Yes,28,27
+132,Female,21,170,160,66,1-12 months ago,No,No,No,No,No,No,No,Good,Good,No,,Not at all,Lose weight,4-7,Moderate,Bachelors,MSPH,No,,19
+103,Female,27,115,120,66,1-12 months ago,No,No,No,Yes,,No,No,Excellent,Excellent,No,,Not at all,Gain weight,4-7,Moderate,Bachelors,MPH/MPH-MBA/MPH-MSN,No,,21
+439,Male,23,150,135,66,2-5 years ago,No,No,No,No,No,No,No,Very good,Very Good,Yes,18,Not at all,Lose weight,,None,Bachelors,MHS/MS/ScM/MSE/MPP,No,,20
+247,Female,29,173,155,66,1-12 months ago,No,No,No,No,No,No,No,Good,Good,No,,Not at all,Lose weight,1-3,Low,Bachelors,MHS/MS/ScM/MSE/MPP,No,,24
+468,Female,33,115,119,66,1-2 years ago,No,No,No,No,No,No,No,Very good,Very Good,No,,Not at all,Maintain current weight,1-3,Low,MD,MPH/MPH-MBA/MPH-MSN,Yes,26,31
+377,Female,29,120,120,66,1-2 years ago,No,No,No,No,No,No,No,Good,Good,No,,Not at all,Maintain current weight,,Low,MD,MPH/MPH-MBA/MPH-MSN,Yes,26,27
+393,Male,32,171,185,66,1-12 months ago,No,No,No,No,No,No,No,Very good,Very Good,No,,Not at all,Lose weight,1-3,Moderate,Masters,PhD/DrPH/ScD,No,,22
+44,Female,26,66,57,66,5 or more years,,,,Yes,,,,Good,Good,No,,Not at all,Lose weight,4-7,Moderate,Masters,MPH/MPH-MBA/MPH-MSN,No,,20
+362,Female,29,109,95,66,1-12 months ago,No,No,No,No,No,No,No,Very good,Very Good,No,,Not at all,Gain weight,1-3,Moderate,Masters,PhD/DrPH/ScD,No,,22
+113,Female,25,130,115,66,1-12 months ago,No,No,No,No,No,No,No,Very good,Very Good,No,,Not at all,Maintain current weight,,Low,Bachelors,MHS/MS/ScM/MSE/MPP,No,,23
+127,Female,25,125,130,66,5 or more years,No,No,No,No,No,No,No,Very good,Very Good,No,,Not at all,Maintain current weight,4-7,High,Bachelors,MSPH,No,,20
+260,Female,22,150,130,66,1-12 months ago,,,,Yes,,,,Very good,Very Good,No,,Not at all,Lose weight,1-3,Moderate,Bachelors,MPH/MPH-MBA/MPH-MSN,No,,20
+390,Female,28,140,150,67,1-12 months ago,No,No,No,Yes,No,No,No,Very good,Very Good,No,,Not at all,Lose weight,1-3,Moderate,Masters,PhD/DrPH/ScD,Yes,24,23
+336,Female,31,124,124,67,5 or more years,No,No,No,No,No,No,No,Very good,Very Good,No,,Not at all,Maintain current weight,1-3,High,MD,MHS/MS/ScM/MSE/MPP,No,,27
+359,Female,24,117,123,67,1-12 months ago,No,No,No,No,No,No,No,Very good,Very Good,No,,Not at all,Maintain current weight,4-7,Moderate,Bachelors,MHS/MS/ScM/MSE/MPP,No,,20
+402,Female,24,150,130,67,1-12 months ago,No,No,No,Yes,No,No,No,Very good,Very Good,No,,Not at all,Lose weight,4-7,Moderate,Bachelors,MPH/MPH-MBA/MPH-MSN,No,,20
+303,Female,23,137,135,67,1-12 months ago,,,,Yes,,,,Excellent,Excellent,No,,Not at all,Maintain current weight,4-7,Moderate,Bachelors,MSPH,No,,21
+83,Female,25,124,115,67,1-12 months ago,Yes,No,No,No,No,No,No,Excellent,Excellent,No,,Not at all,Lose weight,1-3,Moderate,Bachelors,MPH/MPH-MBA/MPH-MSN,No,,24
+338,Female,23,125,125,67,1-2 years ago,No,No,No,Yes,Yes,No,No,Very good,Very Good,No,,Not at all,Maintain current weight,1-3,Moderate,Bachelors,MHS/MS/ScM/MSE/MPP,No,,20
+53,Female,23,150,122,67,1-12 months ago,No,No,No,No,No,No,No,Good,Good,No,,Not at all,Lose weight,4-7,Moderate,Bachelors,MHS/MS/ScM/MSE/MPP,No,,22
+356,Female,23,142,135,67,1-2 years ago,No,No,No,No,No,No,No,Very good,Very Good,Yes,19,Everyday,Lose weight,,Low,Bachelors,MPH/MPH-MBA/MPH-MSN,No,,21
+164,Female,22,150,145,67,1-12 months ago,No,No,No,No,No,No,No,Very good,Very Good,No,,Not at all,Lose weight,8-13,Moderate,Bachelors,MSPH,No,,20
+28,Female,27,150,160,67,1-2 years ago,No,No,No,No,No,No,No,Very good,Very Good,No,,Not at all,Lose weight,1-3,Moderate,Masters,PhD/DrPH/ScD,No,,17
+423,Female,24,130,110,67,1-2 years ago,No,No,No,Yes,No,No,No,Excellent,Excellent,No,,Not at all,Lose weight,4-7,Moderate,Bachelors,MPH/MPH-MBA/MPH-MSN,No,,23
+406,Female,30,146,140,67,2-5 years ago,No,No,No,No,No,No,No,Very good,Very Good,No,,Not at all,Maintain current weight,1-3,Moderate,Bachelors,MPH/MPH-MBA/MPH-MSN,No,,20
+456,Female,22,150,135,67,1-12 months ago,No,No,No,No,No,No,No,Very good,Very Good,No,,Not at all,Lose weight,4-7,Moderate,Bachelors,MSPH,No,,20
+78,Female,25,124,120,67,1-12 months ago,No,No,No,No,No,No,No,Very good,Very Good,No,,Not at all,Maintain current weight,1-3,Moderate,Bachelors,MPH/MPH-MBA/MPH-MSN,No,,12
+276,Male,29,180,140,67,5 or more years,No,No,No,No,No,No,No,Good,Good,No,,Not at all,Lose weight,,Low,MD,MPH/MPH-MBA/MPH-MSN,Yes,26,26
+416,Female,31,124,135,67,1-12 months ago,No,No,No,No,No,No,No,Very good,Very Good,No,,Not at all,Gain weight,4-7,Moderate,MD,Other,Yes,31,29
+58,Male,23,165,150,67,1-12 months ago,No,No,No,No,No,No,No,Excellent,Excellent,No,,Not at all,Gain weight,8-13,High,Bachelors,MHS/MS/ScM/MSE/MPP,No,,22
+190,Female,26,155,140,67,1-12 months ago,No,No,No,No,No,No,No,Good,Good,No,,Not at all,Maintain current weight,1-3,Moderate,Bachelors,MPH/MPH-MBA/MPH-MSN,No,,24
+369,Female,25,183,143,67,2-5 years ago,No,No,No,No,No,No,No,Good,Good,No,,Not at all,Lose weight,4-7,Low,Bachelors,MHS/MS/ScM/MSE/MPP,No,,24
+219,Female,21,135,125,67,1-2 years ago,No,No,No,No,No,No,No,Good,Good,No,,Not at all,Lose weight,1-3,Moderate,Other,MHS/MS/ScM/MSE/MPP,No,,18
+274,Female,36,81,81,67,1-12 months ago,No,No,No,No,No,No,No,Very good,Very Good,Yes,15,Not at all,Lose weight,1-3,High,Masters,PhD/DrPH/ScD,Yes,28,24
+371,Female,24,113,113,67,1-12 months ago,,,,Yes,,,,Very good,Very Good,No,,Not at all,Maintain current weight,1-3,Low,Masters,PhD/DrPH/ScD,No,,20
+143,Female,30,140,110,67,2-5 years ago,No,No,No,No,No,No,No,Good,Good,No,,Not at all,Maintain current weight,,Low,MD,Other,No,,15
+110,Female,22,115,95,67,1-12 months ago,Yes,No,No,Yes,Yes,No,No,Very good,Very Good,No,,Not at all,Lose weight,1-3,Moderate,Bachelors,MSPH,No,,21
+108,Female,26,125,125,67,1-12 months ago,No,No,No,No,No,No,No,Very good,Very Good,No,,Not at all,Maintain current weight,4-7,Moderate,Bachelors,MPH/MPH-MBA/MPH-MSN,No,,22
+399,Female,35,119,115,67,1-12 months ago,,Yes,Yes,Yes,Yes,,,Very good,Very Good,No,,Not at all,Maintain current weight,1-3,Low,Other,Other,No,,28
+91,Male,30,145,160,67,1-2 years ago,No,No,No,No,No,No,No,Very good,Very Good,No,,Not at all,Gain weight,4-7,Moderate,Other Doctoral,PhD/DrPH/ScD,No,,29
+294,Female,30,110,100,67,1-12 months ago,No,No,No,Yes,No,No,No,Excellent,Excellent,No,,Not at all,Maintain current weight,4-7,High,MD,PhD/DrPH/ScD,No,,12
+266,Female,30,162,150,67,1-2 years ago,No,No,No,No,No,No,No,Good,Good,No,,Not at all,Lose weight,1-3,Low,Masters,PhD/DrPH/ScD,Yes,26,28
+337,Female,22,120,100,67,1-12 months ago,No,No,No,No,No,No,No,Very good,Very Good,No,,Not at all,Maintain current weight,1-3,Moderate,Bachelors,MSPH,No,,20
+70,Female,28,125,108,67,1-12 months ago,No,No,No,No,No,No,No,Fair,Fair,No,,Not at all,Maintain current weight,,Low,Bachelors,PhD/DrPH/ScD,No,,26
+194,Female,22,139,145,67,1-2 years ago,Yes,No,Yes,No,No,No,No,Good,Good,No,,Not at all,Maintain current weight,4-7,Moderate,Bachelors,MHS/MS/ScM/MSE/MPP,No,,19
+261,Female,26,145,130,67,1-12 months ago,,Yes,,Yes,,,,Good,Good,No,,Not at all,Maintain current weight,1-3,Moderate,Bachelors,MPH/MPH-MBA/MPH-MSN,No,,21
+429,Female,26,128,128,67,1-2 years ago,No,No,No,No,No,No,No,Excellent,Excellent,No,,Not at all,Maintain current weight,1-3,Moderate,MD,MPH/MPH-MBA/MPH-MSN,No,,25
+395,Male,27,158,130,67,1-2 years ago,,Yes,,Yes,,,,Good,Good,No,,Not at all,Lose weight,4-7,High,Masters,PhD/DrPH/ScD,No,,20
+344,Female,39,155,135,67,1-12 months ago,No,No,No,Yes,No,No,No,Very good,Very Good,No,,Not at all,Lose weight,1-3,Moderate,Masters,PhD/DrPH/ScD,Yes,35,26
+12,Female,28,199,155,67,1-12 months ago,No,No,No,No,No,No,No,Good,Good,No,,Not at all,Lose weight,,None,Bachelors,PhD/DrPH/ScD,Yes,26,27
+322,Female,26,168,145,67,1-12 months ago,No,No,No,No,No,No,No,Very good,Very Good,No,,Not at all,Lose weight,4-7,Moderate,Bachelors,MHS/MS/ScM/MSE/MPP,No,,25
+178,Male,24,170,200,67,1-2 years ago,No,No,No,Yes,No,No,No,Very good,Very Good,No,,Not at all,Gain weight,8-13,High,Bachelors,MPH/MPH-MBA/MPH-MSN,No,,23
+463,Female,24,128,124,67,1-12 months ago,,,,Yes,,,,Very good,Very Good,No,,Not at all,Maintain current weight,1-3,Moderate,Bachelors,MHS/MS/ScM/MSE/MPP,No,,19
+317,Female,30,135,125,68,2-5 years ago,No,No,No,Yes,No,No,No,Very good,Very Good,Yes,12,Not at all,Maintain current weight,1-3,Moderate,Masters,PhD/DrPH/ScD,Yes,27,16
+186,Male,29,135,160,68,2-5 years ago,No,No,No,No,No,No,No,Excellent,Excellent,Yes,20,Not at all,Gain weight,4-7,Moderate,Other Doctoral,Post-doc,No,,28
+61,Female,29,151,138,68,1-2 years ago,No,No,No,No,No,No,No,Very good,Very Good,No,,Not at all,Lose weight,1-3,Low,MD,MPH/MPH-MBA/MPH-MSN,No,,24
+349,Female,25,155,145,68,1-12 months ago,No,No,No,No,No,No,No,Very good,Very Good,No,,Not at all,Lose weight,4-7,Moderate,Bachelors,PhD/DrPH/ScD,No,,19
+239,Male,22,164,192.5,68,1-12 months ago,No,Yes,No,Yes,No,No,No,Good,Good,No,,Not at all,Lose weight,4-7,Moderate,Bachelors,MSPH,No,,21
+271,Female,31,139,125,68,1-12 months ago,No,No,No,No,No,No,No,Excellent,Excellent,No,,Not at all,Maintain current weight,4-7,Moderate,Bachelors,MHS/MS/ScM/MSE/MPP,Yes,20,21
+154,Female,22,125,118,68,1-12 months ago,,Yes,,Yes,,,,Good,Good,No,,Not at all,Maintain current weight,1-3,Moderate,Bachelors,MSPH,No,,18
+145,Male,27,150,135,68,1-12 months ago,No,Yes,Yes,Yes,No,No,No,Good,Good,Yes,15,Not at all,Lose weight,,Low,Masters,MHS/MS/ScM/MSE/MPP,No,,26
+111,Female,22,145,120,68,2-5 years ago,No,No,No,No,No,No,No,Very good,Very Good,No,,Not at all,Maintain current weight,,Low,Bachelors,MHS/MS/ScM/MSE/MPP,Yes,21,20
+152,Female,25,132,125,68,2-5 years ago,,,,Yes,,,,Very good,Very Good,No,,Not at all,Lose weight,,Low,Bachelors,MPH/MPH-MBA/MPH-MSN,No,,16
+262,Female,23,155,145,68,1-12 months ago,No,No,No,No,No,No,No,Excellent,Excellent,No,,Not at all,Maintain current weight,4-7,Moderate,Bachelors,MHS/MS/ScM/MSE/MPP,No,,19
+401,Male,24,158,147,68,2-5 years ago,No,No,No,No,No,No,No,Very good,Very Good,No,,Not at all,Maintain current weight,4-7,High,Bachelors,MHS/MS/ScM/MSE/MPP,No,,23
+238,Female,26,128,135,68,1-12 months ago,Yes,,,,,,,Very good,Very Good,No,,Not at all,Maintain current weight,1-3,Moderate,Masters,MHS/MS/ScM/MSE/MPP,No,,14
+63,Male,23,150,145,68,1-12 months ago,No,No,No,No,No,No,No,Very good,Very Good,No,,Not at all,Maintain current weight,8-13,Moderate,Bachelors,MHS/MS/ScM/MSE/MPP,No,,19
+400,Female,26,167,155,68,1-12 months ago,,,,Yes,Yes,,,Very good,Very Good,No,,Not at all,Lose weight,4-7,Moderate,Bachelors,MPH/MPH-MBA/MPH-MSN,No,,18
+455,Male,24,150,140,68,1-12 months ago,No,No,No,No,,No,No,Very good,Very Good,No,,Not at all,Maintain current weight,1-3,Moderate,Bachelors,MPH/MPH-MBA/MPH-MSN,No,,19
+7,Male,35,176,143,68,1-12 months ago,No,No,No,No,No,Yes,No,Good,Good,No,,Not at all,Lose weight,1-3,Low,MD,MPH/MPH-MBA/MPH-MSN,Yes,26,33
+168,Male,28,135,120,68,1-12 months ago,No,Yes,No,No,No,No,No,Very good,Very Good,No,,Not at all,Maintain current weight,1-3,Moderate,Bachelors,MPH/MPH-MBA/MPH-MSN,No,,20
+17,Male,33,180,165,68,1-12 months ago,No,No,No,No,No,No,No,Fair,Fair,No,,Not at all,Lose weight,1-3,Moderate,Other Doctoral,PhD/DrPH/ScD,No,,28
+144,Male,28,149,127,68,1-2 years ago,No,No,No,No,No,No,No,Very good,Very Good,No,,Not at all,Maintain current weight,1-3,Moderate,MD,MHS/MS/ScM/MSE/MPP,No,,22
+201,Male,33,190,170,68,1-12 months ago,No,No,No,No,No,No,No,Good,Good,No,,Not at all,Lose weight,1-3,Low,MD,MHS/MS/ScM/MSE/MPP,Yes,28,32
+421,Female,31,105,97,68,1-12 months ago,No,No,No,No,No,No,No,Very good,Very Good,No,,Not at all,Maintain current weight,4-7,Low,Masters,MPH/MPH-MBA/MPH-MSN,No,,30
+94,Male,26,157,145,68,2-5 years ago,No,No,No,No,No,No,No,Good,Good,No,,Some days,Lose weight,1-3,High,Bachelors,MPH/MPH-MBA/MPH-MSN,No,,22
+161,Male,28,122,115,68,1-2 years ago,,,,Yes,,,,Very good,Very Good,No,,Not at all,Maintain current weight,4-7,Low,Bachelors,MHS/MS/ScM/MSE/MPP,No,,25
+320,Female,21,145,135,68,1-12 months ago,No,No,No,No,No,No,No,Very good,Very Good,No,,Not at all,Maintain current weight,1-3,Moderate,Bachelors,MSPH,No,,18
+62,Female,25,140,125,68,1-2 years ago,No,No,No,Yes,No,No,No,Very good,Very Good,No,,Not at all,Lose weight,4-7,Moderate,Bachelors,MPH/MPH-MBA/MPH-MSN,No,,18
+131,Female,36,120,110,68,1-12 months ago,No,No,No,No,No,No,No,Very good,Very Good,No,,Not at all,Lose weight,8-13,Moderate,MD,MHS/MS/ScM/MSE/MPP,No,,36
+20,Male,44,158,145,68,1-12 months ago,,No,,Yes,,,,Very good,Very Good,Yes,15,Not at all,Maintain current weight,1-3,Moderate,Other Doctoral,MPH/MPH-MBA/MPH-MSN,Yes,31,41
+268,Male,29,146,120,68,1-2 years ago,No,No,No,No,No,No,No,Excellent,Excellent,No,,Not at all,Maintain current weight,1-3,Moderate,MD,MPH/MPH-MBA/MPH-MSN,No,,27
+227,Female,26,132,125,68,1-12 months ago,No,No,No,No,No,No,No,Very good,Very Good,No,,Not at all,Maintain current weight,1-3,Moderate,Bachelors,MPH/MPH-MBA/MPH-MSN,No,,17
+189,Male,29,165,160,68,1-2 years ago,,,,Yes,,,,Very good,Very Good,No,,Not at all,Maintain current weight,1-3,Moderate,MD,MPH/MPH-MBA/MPH-MSN,No,,21
+166,Male,23,135,120,68,1-12 months ago,,,,Yes,,,,Excellent,Excellent,No,,Not at all,Gain weight,1-3,Low,Bachelors,MPH/MPH-MBA/MPH-MSN,No,,19
+285,Male,25,145,125,68,2-5 years ago,,,,Yes,,,,Very good,Very Good,No,,Not at all,Gain weight,4-7,Moderate,Bachelors,MPH/MPH-MBA/MPH-MSN,No,,20
+280,Male,28,191,158.4,68,1-12 months ago,No,No,No,No,No,Yes,No,Good,Good,No,,Not at all,Lose weight,,Moderate,MD,MSPH,Yes,26,26
+355,Male,21,123,120,68,1-2 years ago,No,No,No,No,No,No,No,Very good,Very Good,No,,Not at all,Gain weight,,Low,Bachelors,MHS/MS/ScM/MSE/MPP,No,,18
+277,Male,24,155,135,68,1-2 years ago,No,No,No,Yes,No,No,No,Excellent,Excellent,No,,Not at all,Gain weight,4-7,Moderate,MD,MPH/MPH-MBA/MPH-MSN,No,,23
+251,Female,30,189,150,68,2-5 years ago,No,No,No,No,No,No,No,Very good,Very Good,No,,Not at all,Lose weight,4-7,Moderate,Masters,PhD/DrPH/ScD,Yes,25,22
+353,Female,24,138,125,68,1-12 months ago,No,No,No,No,No,No,No,Excellent,Excellent,No,,Not at all,Maintain current weight,4-7,High,Bachelors,MSPH,No,,21
+354,Female,44,128,126,68,2-5 years ago,No,No,No,No,No,No,No,Very good,Very Good,No,,Not at all,Maintain current weight,4-7,High,Masters,PhD/DrPH/ScD,Yes,29,24
+217,Female,27,140,135,68,1-2 years ago,No,No,No,Yes,No,No,No,Very good,Very Good,No,,Not at all,Lose weight,1-3,Moderate,Other,MHS/MS/ScM/MSE/MPP,No,,18
+370,Female,31,155,150,68,1-12 months ago,No,No,No,Yes,No,No,No,Excellent,Excellent,No,,Not at all,Maintain current weight,1-3,Moderate,MD,MHS/MS/ScM/MSE/MPP,Yes,22,10
+218,Male,28,166,165,68,1-12 months ago,No,No,No,No,No,No,No,Very good,Very Good,No,,Not at all,Maintain current weight,1-3,Moderate,Bachelors,MPH/MPH-MBA/MPH-MSN,Yes,22,23
+224,Female,22,134,127,69,1-12 months ago,No,No,No,Yes,No,No,No,Very good,Very Good,No,,Not at all,Maintain current weight,4-7,High,Bachelors,MHS/MS/ScM/MSE/MPP,No,,21
+222,Male,22,175,145,69,2-5 years ago,No,No,No,No,No,No,No,Very good,Very Good,No,,Not at all,Maintain current weight,4-7,Moderate,Bachelors,MHS/MS/ScM/MSE/MPP,No,,21
+128,Male,27,140,110,69,2-5 years ago,No,No,No,Yes,No,No,No,Good,Good,Yes,19,Not at all,Gain weight,,Low,MD,PhD/DrPH/ScD,No,,20
+314,Male,30,169,143,69,1-2 years ago,No,No,No,No,No,No,No,Excellent,Excellent,No,,Not at all,Maintain current weight,1-3,Low,MD,MPH/MPH-MBA/MPH-MSN,Yes,26,28
+335,Female,22,145,130,69,1-2 years ago,No,No,No,No,No,No,No,Very good,Very Good,No,,Not at all,Maintain current weight,1-3,Moderate,Bachelors,MHS/MS/ScM/MSE/MPP,No,,19
+69,Male,34,32,31,69,1-12 months ago,No,No,No,No,No,No,No,Very good,Very Good,Yes,18,Some days,Maintain current weight,1-3,Low,MD,MPH/MPH-MBA/MPH-MSN,Yes,31,33
+101,Female,34,160,140,69,1-12 months ago,No,No,No,No,No,No,No,Very good,Very Good,Yes,18,Not at all,Lose weight,1-3,Moderate,MD,Post-doc,Yes,29,34
+464,Female,26,132,120,69,2-5 years ago,No,No,No,No,No,No,No,Very good,Very Good,No,,Not at all,Lose weight,1-3,Low,Bachelors,MPH/MPH-MBA/MPH-MSN,No,,16
+104,Male,49,165,155,69,1-12 months ago,No,No,No,No,No,No,No,Excellent,Excellent,No,,Not at all,Maintain current weight,4-7,Moderate,MD,MPH/MPH-MBA/MPH-MSN,Yes,43,35
+48,Female,22,125,120,69,1-2 years ago,No,No,No,Yes,No,No,No,Very good,Very Good,No,,Not at all,Lose weight,1-3,Moderate,Bachelors,MHS/MS/ScM/MSE/MPP,No,,21
+24,Male,31,150,147,69,5 or more years,No,No,No,No,No,No,No,Very good,Very Good,No,,Not at all,Maintain current weight,1-3,Low,MD,MPH/MPH-MBA/MPH-MSN,Yes,28,27
+387,Male,22,180,155,69,1-12 months ago,No,No,No,No,No,No,No,Very good,Very Good,No,,Not at all,Lose weight,4-7,Moderate,Bachelors,MHS/MS/ScM/MSE/MPP,No,,21
+36,Female,28,139,128,69,1-12 months ago,No,No,No,No,No,No,No,Good,Good,No,,Not at all,Lose weight,1-3,Low,Masters,PhD/DrPH/ScD,No,,22
+90,Female,23,125,115,69,1-12 months ago,No,No,Yes,Yes,No,No,No,Very good,Very Good,No,,Not at all,Maintain current weight,4-7,Moderate,Bachelors,MSPH,No,,21
+40,Male,37,165,160,69,5 or more years,Yes,Yes,No,Yes,Yes,No,Yes,Excellent,Excellent,No,,Not at all,Lose weight,14+,High,MD,Post-doc,No,,34
+232,Male,28,135,120,69,1-12 months ago,No,No,No,No,No,No,No,Very good,Very Good,Yes,19,Everyday,Maintain current weight,4-7,Moderate,Bachelors,MSPH,No,,24
+278,Male,32,190,160,69,1-2 years ago,,,,Yes,,,,Excellent,Excellent,No,,Not at all,Lose weight,8-13,Moderate,Other Doctoral,PhD/DrPH/ScD,Yes,32,32
+109,Male,30,150,130,69,1-12 months ago,No,No,No,No,No,,No,Very good,Very Good,No,,Not at all,Lose weight,1-3,Low,MD,MPH/MPH-MBA/MPH-MSN,No,,27
+408,Male,23,187,190,69,1-2 years ago,Yes,No,No,No,No,No,No,Very good,Very Good,No,,Not at all,Lose weight,1-3,Low,Bachelors,MHS/MS/ScM/MSE/MPP,No,,22
+307,Male,23,155,150,69,1-12 months ago,No,No,No,No,No,No,No,Excellent,Excellent,No,,Not at all,Gain weight,8-13,High,Bachelors,MSPH,No,,21
+202,Female,25,130,126,69,1-12 months ago,No,No,No,No,No,No,No,Very good,Very Good,No,,Not at all,Lose weight,1-3,Low,Bachelors,MPH/MPH-MBA/MPH-MSN,No,,20
+39,Female,40,143,85,69,1-12 months ago,No,No,No,No,No,No,No,Very good,Very Good,No,,Not at all,Gain weight,1-3,Low,MD,Post-doc,No,,32
+120,Female,21,108,102,69,1-12 months ago,No,No,No,No,No,No,No,Fair,Fair,No,,Not at all,Lose weight,1-3,Low,Other,BA,No,,19
+297,Male,21,143,130,69,1-12 months ago,No,No,No,No,No,No,No,Very good,Very Good,No,,Not at all,Maintain current weight,1-3,Low,Masters,MHS/MS/ScM/MSE/MPP,No,,20
+150,Male,34,150,145,69,1-12 months ago,No,No,No,No,No,No,No,Very good,Very Good,Yes,30,Not at all,Maintain current weight,4-7,Moderate,Masters,PhD/DrPH/ScD,Yes,31,25
+86,Male,25,160,130,69,5 or more years,No,No,No,No,No,No,No,Good,Good,No,,Not at all,Lose weight,,None,Bachelors,MPH/MPH-MBA/MPH-MSN,No,,24
+96,Male,28,170,155,69,1-12 months ago,No,No,No,Yes,No,No,No,Very good,Very Good,No,,Not at all,Maintain current weight,4-7,Moderate,Bachelors,MPH/MPH-MBA/MPH-MSN,No,,24
+241,Female,23,143,122,69,1-12 months ago,No,No,No,No,No,No,No,Very good,Very Good,No,,Not at all,Lose weight,4-7,High,Masters,PhD/DrPH/ScD,No,,16
+206,Male,29,185,165,69,1-12 months ago,No,No,No,No,No,Yes,No,Very good,Very Good,No,,Not at all,Lose weight,4-7,High,MD,Post-doc,No,,20
+65,Female,29,145,140,69,1-12 months ago,No,No,No,No,No,No,No,Good,Good,No,,Not at all,Maintain current weight,4-7,Moderate,Masters,PhD/DrPH/ScD,No,,23
+256,Male,25,153,148,69,1-2 years ago,No,No,No,No,No,No,No,Very good,Very Good,No,,Not at all,Maintain current weight,4-7,Moderate,Bachelors,MPH/MPH-MBA/MPH-MSN,No,,19
+160,Male,22,148,145,69,1-2 years ago,,Yes,,,,,,Very good,Very Good,No,,Not at all,Maintain current weight,1-3,Moderate,Bachelors,MHS/MS/ScM/MSE/MPP,No,,21
+329,Female,23,155,150,69,1-12 months ago,No,No,No,No,No,No,No,Excellent,Excellent,No,,Not at all,Lose weight,4-7,Moderate,Bachelors,MSPH,No,,20
+300,Female,26,150,140,69,2-5 years ago,No,No,No,No,No,No,No,Very good,Very Good,No,,Not at all,Maintain current weight,1-3,Moderate,Bachelors,MPH/MPH-MBA/MPH-MSN,No,,22
+394,Female,28,130,122,69,1-12 months ago,No,No,No,No,No,No,No,Very good,Very Good,No,,Not at all,Maintain current weight,1-3,Moderate,Masters,PhD/DrPH/ScD,No,,18
+9,Male,30,157,150,69,1-2 years ago,,Yes,Yes,Yes,,,,Good,Good,No,,Not at all,Maintain current weight,1-3,Moderate,Other Doctoral,PhD/DrPH/ScD,Yes,29,30
+50,Female,40,88,71,69,1-12 months ago,No,No,No,No,No,No,No,Very good,Very Good,No,,Not at all,Maintain current weight,1-3,Low,MD,MPH/MPH-MBA/MPH-MSN,No,,31
+185,Male,37,168,145,70,1-2 years ago,Yes,No,No,No,No,No,No,Very good,Very Good,No,,Not at all,Lose weight,1-3,Moderate,MD,MPH/MPH-MBA/MPH-MSN,Yes,25,32
+67,Male,24,153,155,70,1-12 months ago,No,No,No,No,No,No,Yes,Excellent,Excellent,No,,Not at all,Maintain current weight,8-13,High,Bachelors,MPH/MPH-MBA/MPH-MSN,No,,23
+281,Male,22,200,200,70,1-12 months ago,No,No,No,No,No,Yes,No,Fair,Fair,No,,Not at all,Lose weight,4-7,Moderate,Bachelors,MHS/MS/ScM/MSE/MPP,No,,20
+230,Female,22,155,135,70,1-2 years ago,No,No,No,No,No,No,No,Very good,Very Good,No,,Not at all,Lose weight,4-7,Moderate,Bachelors,MSPH,No,,13
+252,Male,21,190,175,70,1-12 months ago,No,No,No,No,No,No,No,Fair,Fair,No,,Not at all,Maintain current weight,1-3,Low,Other,BA,No,,17
+135,Male,21,140,140,70,1-12 months ago,No,No,No,No,No,No,No,Excellent,Excellent,No,,Not at all,Lose weight,4-7,Low,Other,BA,No,,19
+434,Male,26,175,150,70,1-12 months ago,No,No,No,No,No,No,No,Good,Good,Yes,18,Everyday,Lose weight,1-3,Moderate,Bachelors,MPH/MPH-MBA/MPH-MSN,No,,21
+250,Female,28,129,125,70,2-5 years ago,No,No,No,No,No,No,No,Very good,Very Good,No,,Not at all,Maintain current weight,1-3,Moderate,Masters,PhD/DrPH/ScD,Yes,27,22
+199,Male,23,165,165,70,2-5 years ago,No,No,No,No,No,No,No,Very good,Very Good,Yes,22,Some days,Maintain current weight,4-7,Moderate,Masters,MHS/MS/ScM/MSE/MPP,No,,22
+100,Male,39,176,145,70,5 or more years,No,No,No,No,No,No,No,Fair,Fair,No,,Not at all,Lose weight,4-7,Moderate,Other Doctoral,Post-doc,No,,25
+51,Female,22,145,150,70,1-12 months ago,No,No,No,No,No,No,No,Fair,Fair,No,,Not at all,Maintain current weight,4-7,Moderate,Bachelors,MSPH,No,,11
+29,Female,32,180,150,70,1-12 months ago,No,No,No,No,No,No,No,Excellent,Excellent,No,,Not at all,Lose weight,4-7,Moderate,MD,MPH/MPH-MBA/MPH-MSN,No,,25
+462,Male,21,185,170,70,1-12 months ago,No,Yes,No,No,No,No,No,Good,Good,No,,Not at all,Maintain current weight,14+,High,Bachelors,MHS/MS/ScM/MSE/MPP,No,,19
+13,Female,51,200,200,70,1-12 months ago,No,No,No,No,Yes,No,No,Excellent,Excellent,No,,Not at all,Lose weight,4-7,Moderate,MD,Other,Yes,26,37
+197,Male,27,205,175,70,1-2 years ago,No,No,No,Yes,No,No,No,Excellent,Excellent,No,,Not at all,Maintain current weight,8-13,High,Masters,PhD/DrPH/ScD,No,,24
+93,Female,23,200,160,70,1-12 months ago,No,No,No,Yes,No,No,No,Very good,Very Good,No,,Not at all,Lose weight,1-3,Low,Bachelors,MPH/MPH-MBA/MPH-MSN,No,,18
+5,Male,27,125,125,70,1-12 months ago,No,No,No,No,No,No,No,Very good,Very Good,No,,Not at all,Gain weight,,Moderate,MD,MPH/MPH-MBA/MPH-MSN,No,,22
+473,Male,29,170,155,70,1-12 months ago,No,No,No,No,No,No,No,Excellent,Excellent,No,,Not at all,Lose weight,1-3,High,MD,MPH/MPH-MBA/MPH-MSN,No,,27
+389,Male,25,150,130,70,1-12 months ago,No,No,No,No,No,No,No,Excellent,Excellent,No,,Not at all,Lose weight,4-7,Low,Masters,PhD/DrPH/ScD,No,,22
+82,Male,23,176,140,70,2-5 years ago,No,Yes,No,No,No,No,No,Excellent,Excellent,No,,Not at all,Gain weight,8-13,High,Bachelors,MHS/MS/ScM/MSE/MPP,No,,17
+436,Female,28,142,155,70,1-2 years ago,No,No,No,Yes,No,No,No,Very good,Very Good,No,,Not at all,Maintain current weight,4-7,Moderate,Masters,MPH/MPH-MBA/MPH-MSN,No,,24
+469,Male,27,196,154,70,5 or more years,No,No,No,No,No,No,No,Very good,Very Good,Yes,24,Not at all,Lose weight,1-3,Moderate,Other Doctoral,MPH/MPH-MBA/MPH-MSN,Yes,26,24
+162,Female,32,170,150,70,1-12 months ago,No,Yes,Yes,Yes,No,No,No,Excellent,Excellent,No,,Not at all,Maintain current weight,,None,Other Doctoral,Other,Yes,23,21
+89,Male,34,147,135,70,1-2 years ago,No,No,No,No,No,No,No,Very good,Very Good,No,,Not at all,Maintain current weight,1-3,Moderate,MD,MPH/MPH-MBA/MPH-MSN,No,,25
+159,Female,22,175,165,70,2-5 years ago,No,No,No,No,No,No,No,Fair,Fair,No,,Not at all,Lose weight,1-3,Moderate,Bachelors,MHS/MS/ScM/MSE/MPP,No,,21
+137,Male,34,264,215,71,5 or more years,No,No,No,No,No,No,No,Very good,Very Good,No,,Not at all,Lose weight,1-3,Low,MD,MPH/MPH-MBA/MPH-MSN,Yes,27,33
+412,Male,24,150,140,71,1-12 months ago,No,No,No,No,No,No,No,Very good,Very Good,No,,Not at all,Maintain current weight,4-7,Moderate,Masters,MHS/MS/ScM/MSE/MPP,No,,22
+55,Female,21,265,260,71,1-12 months ago,,Yes,,,,,,Very good,Very Good,No,,Not at all,Lose weight,4-7,Moderate,Bachelors,MSPH,No,,21
+183,Female,32,190,170,71,2-5 years ago,No,No,No,Yes,No,No,No,Very good,Very Good,Yes,16,Some days,Lose weight,1-3,Moderate,Masters,PhD/DrPH/ScD,Yes,31,24
+184,Male,23,150,140,71,5 or more years,No,No,No,No,No,No,No,Very good,Very Good,No,,Not at all,Gain weight,1-3,Low,Bachelors,MHS/MS/ScM/MSE/MPP,No,,22
+273,Female,27,155,120,71,1-2 years ago,No,No,No,No,No,No,No,Very good,Very Good,No,,Not at all,Lose weight,4-7,Moderate,Bachelors,MPH/MPH-MBA/MPH-MSN,No,,21
+102,Male,22,35,35,71,1-12 months ago,No,No,No,No,No,No,No,Very good,Very Good,No,,Not at all,Maintain current weight,4-7,Moderate,Masters,MHS/MS/ScM/MSE/MPP,No,,20
+361,Female,23,148,135,71,1-12 months ago,No,No,No,Yes,Yes,No,No,Very good,Very Good,No,,Not at all,Lose weight,1-3,Moderate,Bachelors,MHS/MS/ScM/MSE/MPP,No,,21
+237,Male,27,150,140,71,5 or more years,,,,Yes,,,,Excellent,Excellent,Yes,23,Not at all,Lose weight,1-3,Moderate,MD,MPH/MPH-MBA/MPH-MSN,No,,5
+170,Male,32,198,195,71,5 or more years,No,No,No,No,No,No,No,Good,Good,No,,Not at all,Lose weight,1-3,Moderate,MD,MHS/MS/ScM/MSE/MPP,Yes,29,19
+54,Male,28,176,160,71,5 or more years,No,Yes,No,No,No,No,No,Very good,Very Good,No,,Not at all,Gain weight,1-3,Low,Other,BA,Yes,24,15
+136,Male,22,155,150,71,1-12 months ago,No,No,No,No,No,No,No,Excellent,Excellent,No,,Not at all,Maintain current weight,1-3,Moderate,Bachelors,MHS/MS/ScM/MSE/MPP,No,,18
+231,Female,28,155,150,71,1-12 months ago,No,No,No,No,No,No,No,Very good,Very Good,No,,Not at all,Lose weight,1-3,Moderate,Bachelors,MPH/MPH-MBA/MPH-MSN,Yes,26,20
+292,Male,24,165,150,71,1-12 months ago,No,No,No,No,Yes,No,No,Excellent,Excellent,No,,Not at all,Maintain current weight,,Low,MD,MPH/MPH-MBA/MPH-MSN,No,,21
+385,Male,25,180,170,71,1-12 months ago,No,No,No,No,No,No,No,Very good,Very Good,No,,Not at all,Lose weight,1-3,Moderate,Bachelors,PhD/DrPH/ScD,No,,20
+33,Male,29,176,163,71,1-12 months ago,No,Yes,No,No,No,No,No,Very good,Very Good,No,,Not at all,Lose weight,1-3,Low,Masters,PhD/DrPH/ScD,Yes,28,27
+141,Female,22,154,154,71,1-2 years ago,No,Yes,No,Yes,Yes,No,No,Excellent,Excellent,Yes,18,Not at all,Lose weight,4-7,Moderate,Bachelors,MHS/MS/ScM/MSE/MPP,No,,22
+88,Female,21,170,165,71,1-12 months ago,No,No,,Yes,No,No,,Good,Good,No,,Not at all,Lose weight,4-7,Moderate,Bachelors,BA,No,,19
+6,Male,37,166,168,71,2-5 years ago,No,No,No,No,No,No,No,Very good,Very Good,Yes,21,Not at all,Maintain current weight,4-7,Moderate,Bachelors,PhD/DrPH/ScD,No,,27
+306,Male,30,203,174,71,1-12 months ago,No,No,No,No,No,No,No,Very good,Very Good,No,,Not at all,Lose weight,1-3,Moderate,Masters,MPH/MPH-MBA/MPH-MSN,Yes,26,23
+31,Male,33,81,79.5,72,5 or more years,No,No,No,Yes,No,No,No,Good,Good,No,,Not at all,Maintain current weight,1-3,Moderate,MD,PhD/DrPH/ScD,Yes,28,33
+198,Male,30,165,160,72,1-2 years ago,No,No,No,No,No,No,No,Very good,Very Good,No,,Not at all,Maintain current weight,,Moderate,MD,MPH/MPH-MBA/MPH-MSN,Yes,28,20
+52,Male,24,175,160,72,1-2 years ago,Yes,No,No,Yes,No,No,No,Very good,Very Good,No,,Not at all,Lose weight,1-3,Moderate,MD,MPH/MPH-MBA/MPH-MSN,No,,22
+315,Male,22,185,142,72,1-12 months ago,No,No,No,No,No,No,No,Fair,Fair,Yes,19,Some days,Lose weight,1-3,Moderate,Bachelors,MSPH,No,,20
+56,Male,25,170,140,72,1-2 years ago,No,No,No,No,No,No,No,Very good,Very Good,No,,Not at all,Lose weight,4-7,Moderate,Bachelors,MPH/MPH-MBA/MPH-MSN,No,,18
+200,Female,26,80,145,72,1-12 months ago,No,No,No,Yes,No,No,No,Good,Good,No,,Not at all,Lose weight,,Low,Bachelors,MHS/MS/ScM/MSE/MPP,No,,19
+204,Male,30,176,175,72,1-2 years ago,No,No,No,No,No,No,No,Very good,Very Good,No,,Not at all,Maintain current weight,1-3,Moderate,Other,MHS/MS/ScM/MSE/MPP,Yes,27,29
+210,Male,29,180,150,72,1-2 years ago,No,No,No,No,No,No,No,Very good,Very Good,Yes,19,Everyday,Gain weight,4-7,Moderate,Bachelors,MSPH,No,,28
+138,Male,30,188,,72,1-12 months ago,No,No,No,No,No,No,No,Excellent,Excellent,Yes,17,Not at all,Maintain current weight,4-7,High,Masters,PhD/DrPH/ScD,No,,27
+424,Male,26,160,150,72,1-12 months ago,No,No,No,No,No,No,No,Very good,Very Good,No,,Not at all,Maintain current weight,1-3,High,Bachelors,MPH/MPH-MBA/MPH-MSN,No,,23
+272,Male,28,170,160,72,1-2 years ago,No,No,No,No,No,No,No,Excellent,Excellent,No,,Not at all,Maintain current weight,,High,Masters,MPH/MPH-MBA/MPH-MSN,No,,19
+68,Male,32,178,158,72,5 or more years,No,No,No,No,No,No,No,Very good,Very Good,No,,Not at all,Maintain current weight,1-3,Moderate,Masters,MPH/MPH-MBA/MPH-MSN,No,,32
+460,Female,22,136,145,72,1-12 months ago,No,No,No,Yes,No,No,No,Very good,Very Good,No,,Not at all,Maintain current weight,4-7,Moderate,Bachelors,MPH/MPH-MBA/MPH-MSN,No,,20
+254,Female,24,185,175,72,1-12 months ago,No,No,No,No,No,No,No,Good,Good,No,,Not at all,Lose weight,4-7,Moderate,Bachelors,MHS/MS/ScM/MSE/MPP,No,,22
+287,Male,33,165,165,72,5 or more years,,No,No,No,No,No,No,Excellent,Excellent,Yes,16,Not at all,Maintain current weight,1-3,Moderate,MD,Post-doc,Yes,24,31
+405,Male,25,155,150,72,1-12 months ago,No,No,No,No,No,No,No,Very good,Very Good,No,,Not at all,Maintain current weight,1-3,Moderate,Bachelors,MPH/MPH-MBA/MPH-MSN,No,,22
+242,Male,23,175,165,72,2-5 years ago,No,No,No,No,No,No,No,Excellent,Excellent,No,,Not at all,Maintain current weight,14+,Moderate,Bachelors,MSPH,No,,21
+205,Male,34,165,155,72,1-12 months ago,No,No,No,Yes,No,No,No,Excellent,Excellent,No,,Not at all,Maintain current weight,1-3,Moderate,MD,MPH/MPH-MBA/MPH-MSN,No,,19
+181,Female,28,160,145,72,1-2 years ago,No,No,No,No,No,No,No,Excellent,Excellent,No,,Not at all,Lose weight,4-7,Moderate,MD,PhD/DrPH/ScD,No,,28
+163,Male,50,144,122,72,5 or more years,No,No,No,No,No,No,No,Excellent,Excellent,No,,Not at all,Maintain current weight,4-7,Moderate,Other Doctoral,MPH/MPH-MBA/MPH-MSN,Yes,27,42
+471,Male,30,165,130,72,1-2 years ago,No,No,No,No,No,No,No,Good,Good,No,,Not at all,Maintain current weight,,Low,MD,MPH/MPH-MBA/MPH-MSN,No,,28
+215,Male,21,206,205,73,1-12 months ago,No,No,No,No,No,No,No,Very good,Very Good,Yes,20,Some days,Lose weight,8-13,High,Other,BA,No,,16
+332,Male,27,152,135,73,2-5 years ago,Yes,,,,,,,Very good,Very Good,No,,Not at all,Maintain current weight,1-3,Moderate,Masters,PhD/DrPH/ScD,No,,25
+19,Male,21,200,175,73,5 or more years,No,No,No,No,No,No,No,Very good,Very Good,No,,Some days,Gain weight,4-7,Moderate,Bachelors,MHS/MS/ScM/MSE/MPP,No,,19
+84,Male,31,193,188,73,5 or more years,No,Yes,Yes,Yes,Yes,No,No,Excellent,Excellent,No,,Not at all,Lose weight,4-7,High,MD,MPH/MPH-MBA/MPH-MSN,No,,29
+85,Male,26,195,180,73,1-12 months ago,No,No,No,No,No,No,No,Very good,Very Good,No,,Not at all,Lose weight,1-3,Low,Bachelors,MPH/MPH-MBA/MPH-MSN,No,,23
+283,Male,24,150,160,73,1-2 years ago,No,No,No,No,No,No,No,Very good,Very Good,No,,Not at all,Maintain current weight,1-3,Moderate,Bachelors,PhD/DrPH/ScD,No,,23
+30,Male,46,320,155,73,1-12 months ago,No,No,No,Yes,No,Yes,No,Very good,Very Good,No,,Not at all,Lose weight,1-3,Low,Bachelors,PhD/DrPH/ScD,No,,38
+331,Male,22,140,120,73,1-2 years ago,No,No,No,No,No,No,No,Good,Good,No,,Not at all,Maintain current weight,,None,Bachelors,MHS/MS/ScM/MSE/MPP,No,,19
+195,Male,28,225,185,73,1-12 months ago,Yes,No,No,No,No,No,No,Very good,Very Good,No,,Not at all,Lose weight,1-3,Moderate,Bachelors,MPH/MPH-MBA/MPH-MSN,No,,19
+457,Male,23,205,190,73,1-12 months ago,,,,Yes,,,,Excellent,Excellent,No,,Not at all,Maintain current weight,4-7,Low,Bachelors,MSPH,No,,20
+175,Male,21,155,130,73,1-12 months ago,No,No,No,No,No,No,No,Very good,Very Good,No,,Not at all,Gain weight,1-3,Moderate,Other,MHS/MS/ScM/MSE/MPP,No,,18
+74,Male,22,150,130,73,1-2 years ago,No,No,No,No,No,No,No,Very good,Very Good,No,,Not at all,Gain weight,4-7,Moderate,Bachelors,MSPH,No,,22
+148,Male,26,175,170,73,1-12 months ago,No,No,No,Yes,No,No,No,Excellent,Excellent,No,,Not at all,Maintain current weight,4-7,High,Bachelors,MHS/MS/ScM/MSE/MPP,No,,22
+3,Male,23,270,220,74,5 or more years,No,No,No,No,No,No,No,Good,Good,No,,Not at all,Lose weight,4-7,Moderate,Bachelors,MPH/MPH-MBA/MPH-MSN,No,,21
+330,Male,26,190,175,74,1-12 months ago,No,No,No,Yes,No,No,No,Very good,Very Good,No,,Not at all,Lose weight,,None,Bachelors,MPH/MPH-MBA/MPH-MSN,No,,22
+1,Male,32,185,150,74,1-2 years ago,No,No,No,No,No,No,No,Excellent,Excellent,No,,Not at all,Maintain current weight,8-13,Moderate,Bachelors,MPH/MPH-MBA/MPH-MSN,No,,28
+22,Male,33,195,195,75,5 or more years,No,Yes,Yes,Yes,Yes,No,No,Good,Good,Yes,13,Not at all,Maintain current weight,4-7,High,Masters,PhD/DrPH/ScD,Yes,28,30
+384,Male,28,260,220,75,1-12 months ago,,Yes,Yes,Yes,Yes,,,Excellent,Excellent,No,,Not at all,Maintain current weight,14+,High,Bachelors,MPH/MPH-MBA/MPH-MSN,Yes,26,22
+397,Male,32,225,200,76,1-12 months ago,No,No,No,No,No,No,No,Very good,Very Good,No,,Not at all,Lose weight,,Low,MD,Other,Yes,28,18
+4,Male,22,180,160,76,1-2 years ago,No,No,No,No,No,No,No,Very good,Very Good,No,,Not at all,Maintain current weight,4-7,Moderate,Other,BA,No,,20
+245,Male,30,200,180,76,1-12 months ago,No,No,No,No,No,No,No,Very good,Very Good,No,,Not at all,Lose weight,4-7,High,Bachelors,MPH/MPH-MBA/MPH-MSN,Yes,22,21
+299,Male,31,270,285,76,1-12 months ago,No,No,No,No,No,No,No,Very good,Very Good,Yes,21,Not at all,Lose weight,14+,High,Bachelors,MPH/MPH-MBA/MPH-MSN,No,,9
+8,Male,26,120,100,78,2-5 years ago,No,No,No,Yes,No,No,No,Excellent,Excellent,No,,Not at all,Maintain current weight,8-13,Moderate,Bachelors,MHS/MS/ScM/MSE/MPP,No,,25
+130,Female,23,147,130,79,1-12 months ago,No,Yes,No,No,Yes,No,No,Good,Good,No,,Not at all,Lose weight,1-3,Moderate,Bachelors,MSPH,No,,20

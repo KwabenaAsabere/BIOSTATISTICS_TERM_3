@@ -1,0 +1,37 @@
+age,smoke,pop,deaths
+40-44,Never,656,18
+45-49,Never,359,22
+50-54,Never,249,19
+55-59,Never,632,55
+60-64,Never,1067,117
+65-69,Never,897,170
+70-74,Never,668,179
+75-79,Never,361,120
+80+,Never,274,120
+40-44,Cigar_Pipe_Only,145,2
+45-49,Cigar_Pipe_Only,104,4
+50-54,Cigar_Pipe_Only,98,3
+55-59,Cigar_Pipe_Only,372,38
+60-64,Cigar_Pipe_Only,846,113
+65-69,Cigar_Pipe_Only,949,173
+70-74,Cigar_Pipe_Only,824,212
+75-79,Cigar_Pipe_Only,667,243
+80+,Cigar_Pipe_Only,537,253
+40-44,Cigarettes Plus,4531,149
+45-49,Cigarettes Plus,3030,169
+50-54,Cigarettes Plus,2267,193
+55-59,Cigarettes Plus,4682,576
+60-64,Cigarettes Plus,6052,1001
+65-69,Cigarettes Plus,3880,901
+70-74,Cigarettes Plus,2033,613
+75-79,Cigarettes Plus,871,337
+80+,Cigarettes Plus,345,189
+40-44,Cigarettes Only,3410,124
+45-49,Cigarettes Only,2239,140
+50-54,Cigarettes Only,1851,187
+55-59,Cigarettes Only,3270,514
+60-64,Cigarettes Only,3791,778
+65-69,Cigarettes Only,2421,689
+70-74,Cigarettes Only,1195,432
+75-79,Cigarettes Only,436,214
+80+,Cigarettes Only,113,63

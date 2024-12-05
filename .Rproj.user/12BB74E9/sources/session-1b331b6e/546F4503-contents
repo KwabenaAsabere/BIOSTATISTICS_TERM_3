@@ -1,0 +1,16 @@
+library(tidyverse)
+library(broom)
+library(gapminder)
+gapdata <- gapminder
+gapdata <-gapdata |> mutate(year_from1952 = year -1952)
+
+gapdata_UK_T <-gapdata |>  filter(country %in% c("Turkey", "United Kingdom"))
+
+
+fit_both1 <-gapdata_UK_T |> lm(lifeExp ~ year_from1952, data = _)
+
+
+
+fit_both1
+
+
